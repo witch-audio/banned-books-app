@@ -1,0 +1,1262 @@
+[
+  {
+    "id": "book-001",
+    "slug": "the-bluest-eye",
+    "title": "The Bluest Eye",
+    "author": "Toni Morrison",
+    "description": "Set in 1941 Ohio, this novel tells the story of Pecola Breedlove, a young Black girl who longs for blue eyes and the beauty standards of white America. Morrison explores the devastating effects of racism, poverty, and internalized self-hatred on a vulnerable child.",
+    "coverUrl": "",
+    "isbn": "9780307278463",
+    "publishedYear": 1970,
+    "topics": ["race", "coming-of-age", "family", "sexuality", "violence"],
+    "challengeReasons": ["sexually explicit content", "depictions of child abuse", "racial themes", "unsuitable for age group"],
+    "featured": true,
+    "purchaseLinks": {
+      "bookshop": "https://bookshop.org/p/books/the-bluest-eye-toni-morrison/9780307278463",
+      "library": "https://www.worldcat.org/search?q=9780307278463"
+    },
+    "relatedBookIds": ["book-004", "book-012", "book-026"]
+  },
+  {
+    "id": "book-002",
+    "slug": "gender-queer-a-memoir",
+    "title": "Gender Queer: A Memoir",
+    "author": "Maia Kobabe",
+    "description": "This graphic memoir chronicles Maia Kobabe's journey of self-identity, exploring what it means to be nonbinary and asexual. Through illustrated panels, Kobabe navigates gender expectations, pronouns, and the process of coming out to family and friends.",
+    "coverUrl": "",
+    "isbn": "9781549304002",
+    "publishedYear": 2019,
+    "topics": ["lgbtq", "gender", "coming-of-age", "family"],
+    "challengeReasons": ["LGBTQ+ themes", "sexually explicit imagery", "unsuitable for age group"],
+    "featured": true,
+    "purchaseLinks": {
+      "bookshop": "https://bookshop.org/p/books/gender-queer-a-memoir-maia-kobabe/9781549304002",
+      "library": "https://www.worldcat.org/search?q=9781549304002"
+    },
+    "relatedBookIds": ["book-017", "book-018", "book-025"]
+  },
+  {
+    "id": "book-003",
+    "slug": "all-boys-arent-blue",
+    "title": "All Boys Aren't Blue",
+    "author": "George M. Johnson",
+    "description": "A series of personal essays that chronicle growing up Black and queer in New Jersey and Virginia. Johnson writes candidly about gender identity, toxic masculinity, brotherhood, and sexual assault while celebrating Black joy and queer identity.",
+    "coverUrl": "",
+    "isbn": "9780593111505",
+    "publishedYear": 2020,
+    "topics": ["lgbtq", "race", "coming-of-age", "gender", "family"],
+    "challengeReasons": ["LGBTQ+ themes", "sexually explicit content", "profanity"],
+    "featured": true,
+    "purchaseLinks": {
+      "bookshop": "https://bookshop.org/p/books/all-boys-arent-blue-george-m-johnson/9780593111505",
+      "library": "https://www.worldcat.org/search?q=9780593111505"
+    },
+    "relatedBookIds": ["book-002", "book-016", "book-018"]
+  },
+  {
+    "id": "book-004",
+    "slug": "beloved",
+    "title": "Beloved",
+    "author": "Toni Morrison",
+    "description": "Inspired by the true story of Margaret Garner, this Pulitzer Prize-winning novel follows Sethe, a formerly enslaved woman haunted by the ghost of her dead daughter. Morrison confronts the intergenerational trauma of slavery and the impossible choices it forced upon Black mothers.",
+    "coverUrl": "",
+    "isbn": "9781400033416",
+    "publishedYear": 1987,
+    "topics": ["race", "history", "violence", "family", "mental-health"],
+    "challengeReasons": ["sexually explicit content", "violence", "racial themes", "bestiality"],
+    "featured": true,
+    "purchaseLinks": {
+      "bookshop": "https://bookshop.org/p/books/beloved-toni-morrison/9781400033416",
+      "library": "https://www.worldcat.org/search?q=9781400033416"
+    },
+    "relatedBookIds": ["book-001", "book-012", "book-026"]
+  },
+  {
+    "id": "book-005",
+    "slug": "the-hate-u-give",
+    "title": "The Hate U Give",
+    "author": "Angie Thomas",
+    "description": "Sixteen-year-old Starr Carter witnesses the fatal shooting of her unarmed best friend by a police officer. Navigating between her poor Black neighborhood and her wealthy suburban prep school, Starr must find her voice and stand up for justice.",
+    "coverUrl": "",
+    "isbn": "9780062498533",
+    "publishedYear": 2017,
+    "topics": ["race", "coming-of-age", "violence", "politics"],
+    "challengeReasons": ["profanity", "anti-police message", "drug references", "racial themes"],
+    "featured": true,
+    "purchaseLinks": {
+      "bookshop": "https://bookshop.org/p/books/the-hate-u-give-angie-thomas/9780062498533",
+      "library": "https://www.worldcat.org/search?q=9780062498533"
+    },
+    "relatedBookIds": ["book-016", "book-015", "book-001"]
+  },
+  {
+    "id": "book-006",
+    "slug": "1984",
+    "title": "1984",
+    "author": "George Orwell",
+    "description": "In a totalitarian society ruled by Big Brother, Winston Smith works at the Ministry of Truth rewriting history. His secret rebellion against the Party and forbidden love affair lead to a devastating confrontation with the machinery of absolute power.",
+    "coverUrl": "",
+    "isbn": "9780451524935",
+    "publishedYear": 1949,
+    "topics": ["politics", "censorship", "violence", "sexuality", "war"],
+    "challengeReasons": ["sexually explicit content", "political themes", "social themes", "violence"],
+    "featured": true,
+    "purchaseLinks": {
+      "bookshop": "https://bookshop.org/p/books/1984-george-orwell/9780451524935",
+      "library": "https://www.worldcat.org/search?q=9780451524935"
+    },
+    "relatedBookIds": ["book-007", "book-023", "book-009"]
+  },
+  {
+    "id": "book-007",
+    "slug": "fahrenheit-451",
+    "title": "Fahrenheit 451",
+    "author": "Ray Bradbury",
+    "description": "In a dystopian future where firemen burn books instead of putting out fires, Guy Montag begins to question the society that has outlawed reading. His awakening leads him to risk everything to preserve the written word against a culture that has chosen ignorance.",
+    "coverUrl": "",
+    "isbn": "9781451673319",
+    "publishedYear": 1953,
+    "topics": ["censorship", "politics", "violence"],
+    "challengeReasons": ["profanity", "discussion of burning the Bible", "violence", "anti-government themes"],
+    "featured": true,
+    "purchaseLinks": {
+      "bookshop": "https://bookshop.org/p/books/fahrenheit-451-ray-bradbury/9781451673319",
+      "library": "https://www.worldcat.org/search?q=9781451673319"
+    },
+    "relatedBookIds": ["book-006", "book-023", "book-029"]
+  },
+  {
+    "id": "book-008",
+    "slug": "to-kill-a-mockingbird",
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "description": "Through the eyes of young Scout Finch in 1930s Alabama, this classic novel follows her father Atticus as he defends a Black man falsely accused of rape. The story confronts racial injustice, moral courage, and the loss of childhood innocence in the American South.",
+    "coverUrl": "",
+    "isbn": "9780060935467",
+    "publishedYear": 1960,
+    "topics": ["race", "coming-of-age", "history", "violence", "family"],
+    "challengeReasons": ["racial slurs", "racial themes", "profanity", "unsuitable for age group"],
+    "featured": true,
+    "purchaseLinks": {
+      "bookshop": "https://bookshop.org/p/books/to-kill-a-mockingbird-harper-lee/9780060935467",
+      "library": "https://www.worldcat.org/search?q=9780060935467"
+    },
+    "relatedBookIds": ["book-001", "book-026", "book-011"]
+  },
+  {
+    "id": "book-009",
+    "slug": "the-handmaids-tale",
+    "title": "The Handmaid's Tale",
+    "author": "Margaret Atwood",
+    "description": "In the theocratic Republic of Gilead, formerly the United States, women are stripped of all rights and Offred is forced to serve as a Handmaid, bearing children for the ruling class. Atwood's chilling dystopia explores power, gender oppression, and resistance.",
+    "coverUrl": "",
+    "isbn": "9780385490818",
+    "publishedYear": 1985,
+    "topics": ["gender", "politics", "religion", "sexuality", "violence"],
+    "challengeReasons": ["sexually explicit content", "profanity", "anti-religious themes", "violence"],
+    "featured": false,
+    "purchaseLinks": {
+      "bookshop": "https://bookshop.org/p/books/the-handmaids-tale-margaret-atwood/9780385490818",
+      "library": "https://www.worldcat.org/search?q=9780385490818"
+    },
+    "relatedBookIds": ["book-006", "book-023", "book-012"]
+  },
+  {
+    "id": "book-010",
+    "slug": "maus",
+    "title": "Maus",
+    "author": "Art Spiegelman",
+    "description": "This Pulitzer Prize-winning graphic novel depicts the author's father's experiences as a Polish Jew and Holocaust survivor, with Jews drawn as mice and Nazis as cats. It is both a memoir of Spiegelman's relationship with his father and a powerful chronicle of the Holocaust.",
+    "coverUrl": "",
+    "isbn": "9780394747231",
+    "publishedYear": 1986,
+    "topics": ["history", "war", "violence", "family", "race"],
+    "challengeReasons": ["nudity", "profanity", "violence", "unsuitable for age group"],
+    "featured": true,
+    "purchaseLinks": {
+      "bookshop": "https://bookshop.org/p/books/maus-a-survivors-tale-art-spiegelman/9780394747231",
+      "library": "https://www.worldcat.org/search?q=9780394747231"
+    },
+    "relatedBookIds": ["book-011", "book-006", "book-029"]
+  },
+  {
+    "id": "book-011",
+    "slug": "slaughterhouse-five",
+    "title": "Slaughterhouse-Five",
+    "author": "Kurt Vonnegut",
+    "description": "Billy Pilgrim, a World War II soldier and prisoner of war who survived the firebombing of Dresden, becomes 'unstuck in time,' experiencing moments of his life out of order. Vonnegut's anti-war masterpiece blends science fiction with autobiography to confront the absurdity of war.",
+    "coverUrl": "",
+    "isbn": "9780812988529",
+    "publishedYear": 1969,
+    "topics": ["war", "violence", "history", "mental-health"],
+    "challengeReasons": ["profanity", "sexually explicit content", "violence", "anti-religious themes"],
+    "featured": false,
+    "purchaseLinks": {
+      "bookshop": "https://bookshop.org/p/books/slaughterhouse-five-kurt-vonnegut/9780812988529",
+      "library": "https://www.worldcat.org/search?q=9780812988529"
+    },
+    "relatedBookIds": ["book-010", "book-006", "book-024"]
+  },
+  {
+    "id": "book-012",
+    "slug": "the-color-purple",
+    "title": "The Color Purple",
+    "author": "Alice Walker",
+    "description": "Told through letters, this Pulitzer Prize-winning novel follows Celie, a young Black woman in rural Georgia who endures abuse, racism, and poverty. Through her bond with the bold Shug Avery and her sister Nettie, Celie finds her voice and sense of self-worth.",
+    "coverUrl": "",
+    "isbn": "9780156028356",
+    "publishedYear": 1982,
+    "topics": ["race", "gender", "lgbtq", "sexuality", "violence", "family"],
+    "challengeReasons": ["sexually explicit content", "LGBTQ+ themes", "profanity", "violence", "racial themes"],
+    "featured": false,
+    "purchaseLinks": {
+      "bookshop": "https://bookshop.org/p/books/the-color-purple-alice-walker/9780156028356",
+      "library": "https://www.worldcat.org/search?q=9780156028356"
+    },
+    "relatedBookIds": ["book-001", "book-004", "book-026"]
+  },
+  {
+    "id": "book-013",
+    "slug": "the-perks-of-being-a-wallflower",
+    "title": "The Perks of Being a Wallflower",
+    "author": "Stephen Chbosky",
+    "description": "Through a series of anonymous letters, introverted teenager Charlie navigates his freshman year of high school while dealing with the trauma of his best friend's suicide and his own buried memories of abuse. The novel candidly explores adolescence, mental health, and the search for belonging.",
+    "coverUrl": "",
+    "isbn": "9781451696196",
+    "publishedYear": 1999,
+    "topics": ["coming-of-age", "mental-health", "lgbtq", "drugs", "sexuality"],
+    "challengeReasons": ["sexually explicit content", "drug use", "LGBTQ+ themes", "profanity", "references to suicide"],
+    "featured": false,
+    "purchaseLinks": {
+      "bookshop": "https://bookshop.org/p/books/the-perks-of-being-a-wallflower-stephen-chbosky/9781451696196",
+      "library": "https://www.worldcat.org/search?q=9781451696196"
+    },
+    "relatedBookIds": ["book-014", "book-022", "book-030"]
+  },
+  {
+    "id": "book-014",
+    "slug": "looking-for-alaska",
+    "title": "Looking for Alaska",
+    "author": "John Green",
+    "description": "Miles Halter leaves his safe life in Florida for a boarding school in Alabama, where he falls for the enigmatic Alaska Young. When tragedy strikes, Miles must reckon with guilt, grief, and the labyrinth of suffering that Alaska often pondered.",
+    "coverUrl": "",
+    "isbn": "9780142402511",
+    "publishedYear": 2005,
+    "topics": ["coming-of-age", "sexuality", "drugs", "mental-health"],
+    "challengeReasons": ["sexually explicit content", "profanity", "drug use", "unsuitable for age group"],
+    "featured": false,
+    "purchaseLinks": {
+      "bookshop": "https://bookshop.org/p/books/looking-for-alaska-john-green/9780142402511",
+      "library": "https://www.worldcat.org/search?q=9780142402511"
+    },
+    "relatedBookIds": ["book-013", "book-022", "book-030"]
+  },
+  {
+    "id": "book-015",
+    "slug": "the-absolutely-true-diary-of-a-part-time-indian",
+    "title": "The Absolutely True Diary of a Part-Time Indian",
+    "author": "Sherman Alexie",
+    "description": "Based on the author's own experiences, this novel follows Junior, a budding cartoonist on the Spokane Indian Reservation who decides to attend an all-white high school. Junior navigates poverty, racism, and grief while straddling two worlds that often seem irreconcilable.",
+    "coverUrl": "",
+    "isbn": "9780316013697",
+    "publishedYear": 2007,
+    "topics": ["race", "coming-of-age", "violence", "family", "language"],
+    "challengeReasons": ["profanity", "sexually explicit content", "racial themes", "anti-religious themes", "violence"],
+    "featured": false,
+    "purchaseLinks": {
+      "bookshop": "https://bookshop.org/p/books/the-absolutely-true-diary-of-a-part-time-indian-sherman-alexie/9780316013697",
+      "library": "https://www.worldcat.org/search?q=9780316013697"
+    },
+    "relatedBookIds": ["book-005", "book-008", "book-022"]
+  },
+  {
+    "id": "book-016",
+    "slug": "stamped-racism-antiracism-and-you",
+    "title": "Stamped: Racism, Antiracism, and You",
+    "author": "Jason Reynolds & Ibram X. Kendi",
+    "description": "A remix of Kendi's National Book Award-winning Stamped from the Beginning, this young adult adaptation traces the history of racist ideas in America from the 1400s to the present. Reynolds makes the complex history of antiracism accessible and urgent for young readers.",
+    "coverUrl": "",
+    "isbn": "9780316453691",
+    "publishedYear": 2020,
+    "topics": ["race", "history", "politics"],
+    "challengeReasons": ["critical race theory", "anti-police message", "racial themes", "political viewpoint"],
+    "featured": false,
+    "purchaseLinks": {
+      "bookshop": "https://bookshop.org/p/books/stamped-racism-antiracism-and-you-jason-reynolds/9780316453691",
+      "library": "https://www.worldcat.org/search?q=9780316453691"
+    },
+    "relatedBookIds": ["book-005", "book-003", "book-008"]
+  },
+  {
+    "id": "book-017",
+    "slug": "this-book-is-gay",
+    "title": "This Book Is Gay",
+    "author": "Juno Dawson",
+    "description": "A frank and funny nonfiction guide for LGBTQ+ teens and their allies, covering coming out, mental health, safe sex, and finding community. Dawson draws on the experiences of real young people to provide an inclusive and informative resource.",
+    "coverUrl": "",
+    "isbn": "9781492617839",
+    "publishedYear": 2014,
+    "topics": ["lgbtq", "sexuality", "coming-of-age", "mental-health"],
+    "challengeReasons": ["LGBTQ+ themes", "sexually explicit content", "unsuitable for age group"],
+    "featured": false,
+    "purchaseLinks": {
+      "bookshop": "https://bookshop.org/p/books/this-book-is-gay-juno-dawson/9781492617839",
+      "library": "https://www.worldcat.org/search?q=9781492617839"
+    },
+    "relatedBookIds": ["book-002", "book-003", "book-025"]
+  },
+  {
+    "id": "book-018",
+    "slug": "flamer",
+    "title": "Flamer",
+    "author": "Mike Curato",
+    "description": "In this graphic novel, Aiden Navarro navigates summer camp while grappling with his identity as a half-Filipino, half-white boy who is beginning to realize he is gay. Facing bullying, self-doubt, and internalized homophobia, Aiden must confront who he really is.",
+    "coverUrl": "",
+    "isbn": "9781627796415",
+    "publishedYear": 2020,
+    "topics": ["lgbtq", "coming-of-age", "race", "mental-health", "violence"],
+    "challengeReasons": ["LGBTQ+ themes", "sexually explicit imagery", "unsuitable for age group"],
+    "featured": false,
+    "purchaseLinks": {
+      "bookshop": "https://bookshop.org/p/books/flamer-mike-curato/9781627796415",
+      "library": "https://www.worldcat.org/search?q=9781627796415"
+    },
+    "relatedBookIds": ["book-002", "book-003", "book-027"]
+  },
+  {
+    "id": "book-019",
+    "slug": "lawn-boy",
+    "title": "Lawn Boy",
+    "author": "Jonathan Evison",
+    "description": "Mike Muñoz is a young Mexican American man struggling to make ends meet as a landscaper in Washington State. This coming-of-age novel follows Mike as he grapples with class, race, sexuality, and the elusive promise of the American Dream.",
+    "coverUrl": "",
+    "isbn": "9781616209230",
+    "publishedYear": 2018,
+    "topics": ["lgbtq", "race", "coming-of-age", "sexuality"],
+    "challengeReasons": ["sexually explicit content", "LGBTQ+ themes", "profanity"],
+    "featured": false,
+    "purchaseLinks": {
+      "bookshop": "https://bookshop.org/p/books/lawn-boy-jonathan-evison/9781616209230",
+      "library": "https://www.worldcat.org/search?q=9781616209230"
+    },
+    "relatedBookIds": ["book-003", "book-002", "book-013"]
+  },
+  {
+    "id": "book-020",
+    "slug": "out-of-darkness",
+    "title": "Out of Darkness",
+    "author": "Ashley Hope Pérez",
+    "description": "Set in 1930s East Texas against the backdrop of the New London school explosion, this novel tells the forbidden love story between Naomi, a Mexican American girl, and Wash, a Black boy. Pérez unflinchingly depicts the racial violence and segregation of the era.",
+    "coverUrl": "",
+    "isbn": "9781467742023",
+    "publishedYear": 2015,
+    "topics": ["race", "history", "sexuality", "violence", "coming-of-age"],
+    "challengeReasons": ["sexually explicit content", "depictions of sexual abuse", "racial themes", "profanity"],
+    "featured": false,
+    "purchaseLinks": {
+      "bookshop": "https://bookshop.org/p/books/out-of-darkness-ashley-hope-perez/9781467742023",
+      "library": "https://www.worldcat.org/search?q=9781467742023"
+    },
+    "relatedBookIds": ["book-001", "book-004", "book-005"]
+  },
+  {
+    "id": "book-021",
+    "slug": "the-kite-runner",
+    "title": "The Kite Runner",
+    "author": "Khaled Hosseini",
+    "description": "Amir, a well-to-do boy from Kabul, and Hassan, the son of his father's servant, share a deep bond until a devastating act of violence tears them apart. Decades later, Amir returns to Taliban-ruled Afghanistan to confront his past and find redemption.",
+    "coverUrl": "",
+    "isbn": "9781594631931",
+    "publishedYear": 2003,
+    "topics": ["violence", "race", "war", "family", "coming-of-age"],
+    "challengeReasons": ["sexually explicit content", "depictions of sexual assault", "violence", "religious viewpoint", "unsuitable for age group"],
+    "featured": false,
+    "purchaseLinks": {
+      "bookshop": "https://bookshop.org/p/books/the-kite-runner-khaled-hosseini/9781594631931",
+      "library": "https://www.worldcat.org/search?q=9781594631931"
+    },
+    "relatedBookIds": ["book-008", "book-011", "book-020"]
+  },
+  {
+    "id": "book-022",
+    "slug": "speak",
+    "title": "Speak",
+    "author": "Laurie Halse Anderson",
+    "description": "After calling the police at a summer party, Melinda Sordino becomes a social outcast at her high school. Retreating into silence, she struggles through her freshman year before finding the courage to speak about the sexual assault that prompted her 911 call.",
+    "coverUrl": "",
+    "isbn": "9780374386887",
+    "publishedYear": 1999,
+    "topics": ["coming-of-age", "violence", "mental-health", "sexuality"],
+    "challengeReasons": ["depictions of sexual assault", "profanity", "unsuitable for age group", "sexually explicit content"],
+    "featured": false,
+    "purchaseLinks": {
+      "bookshop": "https://bookshop.org/p/books/speak-laurie-halse-anderson/9780374386887",
+      "library": "https://www.worldcat.org/search?q=9780374386887"
+    },
+    "relatedBookIds": ["book-013", "book-014", "book-020"]
+  },
+  {
+    "id": "book-023",
+    "slug": "brave-new-world",
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "description": "In a future World State, humans are genetically engineered and socially conditioned into a rigid caste system, kept docile with a pleasure drug called soma. When Bernard Marx and the 'Savage' John challenge this manufactured happiness, they expose the cost of sacrificing freedom for stability.",
+    "coverUrl": "",
+    "isbn": "9780060850524",
+    "publishedYear": 1932,
+    "topics": ["politics", "sexuality", "drugs", "censorship", "religion"],
+    "challengeReasons": ["sexually explicit content", "drug use", "anti-religious themes", "offensive language"],
+    "featured": false,
+    "purchaseLinks": {
+      "bookshop": "https://bookshop.org/p/books/brave-new-world-aldous-huxley/9780060850524",
+      "library": "https://www.worldcat.org/search?q=9780060850524"
+    },
+    "relatedBookIds": ["book-006", "book-007", "book-029"]
+  },
+  {
+    "id": "book-024",
+    "slug": "the-catcher-in-the-rye",
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "description": "Narrated by the disaffected teenager Holden Caulfield after his expulsion from prep school, the novel chronicles his aimless wandering through New York City over several days. Holden's voice captures adolescent alienation, phoniness in the adult world, and the pain of growing up.",
+    "coverUrl": "",
+    "isbn": "9780316769488",
+    "publishedYear": 1951,
+    "topics": ["coming-of-age", "mental-health", "sexuality", "language"],
+    "challengeReasons": ["profanity", "sexually explicit content", "blasphemy", "undermining family values"],
+    "featured": false,
+    "purchaseLinks": {
+      "bookshop": "https://bookshop.org/p/books/the-catcher-in-the-rye-j-d-salinger/9780316769488",
+      "library": "https://www.worldcat.org/search?q=9780316769488"
+    },
+    "relatedBookIds": ["book-013", "book-011", "book-015"]
+  },
+  {
+    "id": "book-025",
+    "slug": "fun-home",
+    "title": "Fun Home",
+    "author": "Alison Bechdel",
+    "description": "In this graphic memoir, Bechdel traces her coming out as a lesbian alongside the revelation of her father's closeted homosexuality and his subsequent death. The book weaves literary allusions with family history to explore identity, repression, and the complex dynamics of her family.",
+    "coverUrl": "",
+    "isbn": "9780618871711",
+    "publishedYear": 2006,
+    "topics": ["lgbtq", "family", "coming-of-age", "sexuality", "mental-health"],
+    "challengeReasons": ["LGBTQ+ themes", "sexually explicit imagery", "nudity", "unsuitable for age group"],
+    "featured": false,
+    "purchaseLinks": {
+      "bookshop": "https://bookshop.org/p/books/fun-home-alison-bechdel/9780618871711",
+      "library": "https://www.worldcat.org/search?q=9780618871711"
+    },
+    "relatedBookIds": ["book-002", "book-010", "book-017"]
+  },
+  {
+    "id": "book-026",
+    "slug": "i-know-why-the-caged-bird-sings",
+    "title": "I Know Why the Caged Bird Sings",
+    "author": "Maya Angelou",
+    "description": "Maya Angelou's landmark autobiography recounts her childhood in the segregated South, from her early years in Stamps, Arkansas, to her teenage years in San Francisco. Angelou writes with unflinching honesty about racism, sexual abuse, and her eventual triumph over trauma through literature and resilience.",
+    "coverUrl": "",
+    "isbn": "9780345514400",
+    "publishedYear": 1969,
+    "topics": ["race", "coming-of-age", "sexuality", "violence", "family"],
+    "challengeReasons": ["sexually explicit content", "depictions of sexual abuse", "profanity", "racial themes"],
+    "featured": false,
+    "purchaseLinks": {
+      "bookshop": "https://bookshop.org/p/books/i-know-why-the-caged-bird-sings-maya-angelou/9780345514400",
+      "library": "https://www.worldcat.org/search?q=9780345514400"
+    },
+    "relatedBookIds": ["book-001", "book-004", "book-012"]
+  },
+  {
+    "id": "book-027",
+    "slug": "drama",
+    "title": "Drama",
+    "author": "Raina Telgemeier",
+    "description": "Callie loves theater and is the set designer for her middle school's musical production. As she navigates crushes, friendships, and backstage drama, the story naturally includes LGBTQ+ characters and themes of acceptance in an age-appropriate graphic novel format.",
+    "coverUrl": "",
+    "isbn": "9780545326995",
+    "publishedYear": 2012,
+    "topics": ["lgbtq", "coming-of-age"],
+    "challengeReasons": ["LGBTQ+ themes", "unsuitable for age group"],
+    "featured": false,
+    "purchaseLinks": {
+      "bookshop": "https://bookshop.org/p/books/drama-raina-telgemeier/9780545326995",
+      "library": "https://www.worldcat.org/search?q=9780545326995"
+    },
+    "relatedBookIds": ["book-028", "book-018", "book-010"]
+  },
+  {
+    "id": "book-028",
+    "slug": "and-tango-makes-three",
+    "title": "And Tango Makes Three",
+    "author": "Justin Richardson & Peter Parnell",
+    "description": "Based on a true story from New York's Central Park Zoo, this picture book tells the tale of two male chinstrap penguins, Roy and Silo, who form a couple and raise a chick named Tango together. It is a gentle story about love, family, and being different.",
+    "coverUrl": "",
+    "isbn": "9781481446952",
+    "publishedYear": 2005,
+    "topics": ["lgbtq", "family"],
+    "challengeReasons": ["LGBTQ+ themes", "unsuitable for age group", "undermining family values", "homosexuality"],
+    "featured": false,
+    "purchaseLinks": {
+      "bookshop": "https://bookshop.org/p/books/and-tango-makes-three-justin-richardson/9781481446952",
+      "library": "https://www.worldcat.org/search?q=9781481446952"
+    },
+    "relatedBookIds": ["book-027", "book-017", "book-029"]
+  },
+  {
+    "id": "book-029",
+    "slug": "the-giver",
+    "title": "The Giver",
+    "author": "Lois Lowry",
+    "description": "In a seemingly perfect community that has eliminated pain, conflict, and choice, twelve-year-old Jonas is selected to inherit the position of Receiver of Memory. As he receives memories of the world before Sameness, Jonas discovers the dark truth behind his society's apparent utopia.",
+    "coverUrl": "",
+    "isbn": "9780544336261",
+    "publishedYear": 1993,
+    "topics": ["politics", "violence", "coming-of-age", "censorship"],
+    "challengeReasons": ["violence", "euthanasia themes", "sexually explicit content", "unsuitable for age group"],
+    "featured": false,
+    "purchaseLinks": {
+      "bookshop": "https://bookshop.org/p/books/the-giver-lois-lowry/9780544336261",
+      "library": "https://www.worldcat.org/search?q=9780544336261"
+    },
+    "relatedBookIds": ["book-007", "book-006", "book-023"]
+  },
+  {
+    "id": "book-030",
+    "slug": "thirteen-reasons-why",
+    "title": "Thirteen Reasons Why",
+    "author": "Jay Asher",
+    "description": "Clay Jensen receives a box of cassette tapes recorded by Hannah Baker, a classmate who recently died by suicide. Each tape reveals one of the thirteen reasons she chose to end her life, exposing a chain of events and the people she holds responsible.",
+    "coverUrl": "",
+    "isbn": "9781595141712",
+    "publishedYear": 2007,
+    "topics": ["mental-health", "coming-of-age", "sexuality", "violence"],
+    "challengeReasons": ["suicide themes", "sexually explicit content", "drug use", "unsuitable for age group"],
+    "featured": false,
+    "purchaseLinks": {
+      "bookshop": "https://bookshop.org/p/books/thirteen-reasons-why-jay-asher/9781595141712",
+      "library": "https://www.worldcat.org/search?q=9781595141712"
+    },
+    "relatedBookIds": ["book-013", "book-022", "book-014"]
+  },
+  {
+    "id": "book-031",
+    "slug": "ulysses",
+    "title": "Ulysses",
+    "author": "James Joyce",
+    "description": "Set over the course of a single day in Dublin on June 16, 1904, this modernist masterpiece follows Leopold Bloom, Stephen Dedalus, and Molly Bloom through their ordinary yet profound experiences. Joyce's stream-of-consciousness technique and frank treatment of sexuality and bodily functions led US authorities to ban the novel as obscene from 1922 until a landmark 1933 court ruling overturned the ban.",
+    "coverUrl": "",
+    "isbn": "9780679722020",
+    "publishedYear": 1922,
+    "topics": ["sexuality", "censorship", "language", "religion", "identity"],
+    "challengeReasons": ["obscenity", "sexually explicit content", "blasphemy", "stream-of-consciousness depictions of bodily functions"],
+    "featured": false,
+    "purchaseLinks": {
+      "bookshop": "https://bookshop.org/p/books/ulysses-james-joyce/9780679722020",
+      "library": "https://www.worldcat.org/search?q=9780679722020"
+    },
+    "relatedBookIds": ["book-032", "book-033", "book-045"]
+  },
+  {
+    "id": "book-032",
+    "slug": "lady-chatterleys-lover",
+    "title": "Lady Chatterley's Lover",
+    "author": "D.H. Lawrence",
+    "description": "Constance Chatterley, married to a paralyzed aristocrat, begins an affair with the gamekeeper Oliver Mellors. Lawrence's frank depiction of sexual desire across class lines and his use of four-letter words led to the novel being banned in Britain and the United States for decades; a landmark 1960 obscenity trial in the UK finally resulted in publication.",
+    "coverUrl": "",
+    "isbn": "9780141441498",
+    "publishedYear": 1928,
+    "topics": ["sexuality", "class", "censorship", "gender"],
+    "challengeReasons": ["obscenity", "sexually explicit language", "explicit descriptions of sexual acts", "use of profanity"],
+    "featured": false,
+    "purchaseLinks": {
+      "bookshop": "https://bookshop.org/p/books/lady-chatterleys-lover-d-h-lawrence/9780141441498",
+      "library": "https://www.worldcat.org/search?q=9780141441498"
+    },
+    "relatedBookIds": ["book-031", "book-033", "book-045"]
+  },
+  {
+    "id": "book-033",
+    "slug": "tropic-of-cancer",
+    "title": "Tropic of Cancer",
+    "author": "Henry Miller",
+    "description": "First published in Paris in 1934, this semi-autobiographical novel chronicles Miller's impoverished, bohemian life among expatriates in France. Its graphic depictions of sex and its celebration of transgression kept it banned in the United States until Grove Press won a landmark Supreme Court obscenity case in 1964.",
+    "coverUrl": "",
+    "isbn": "9780802131959",
+    "publishedYear": 1934,
+    "topics": ["sexuality", "censorship", "class", "identity"],
+    "challengeReasons": ["obscenity", "sexually explicit content", "profanity", "deemed pornographic by US courts"],
+    "featured": false,
+    "purchaseLinks": {
+      "bookshop": "https://bookshop.org/p/books/tropic-of-cancer-henry-miller/9780802131959",
+      "library": "https://www.worldcat.org/search?q=9780802131959"
+    },
+    "relatedBookIds": ["book-031", "book-032", "book-034"]
+  },
+  {
+    "id": "book-034",
+    "slug": "lolita",
+    "title": "Lolita",
+    "author": "Vladimir Nabokov",
+    "description": "Humbert Humbert, a European literary scholar, narrates his obsession with and abuse of twelve-year-old Dolores Haze, whom he calls Lolita. Widely regarded as one of the greatest novels of the twentieth century, it was refused by four American publishers, first published in Paris in 1955, and subsequently banned in France, the UK, Argentina, and New Zealand before its eventual American publication in 1958.",
+    "coverUrl": "",
+    "isbn": "9780679723165",
+    "publishedYear": 1955,
+    "topics": ["sexuality", "censorship", "violence", "language", "identity"],
+    "challengeReasons": ["pedophilia", "sexually explicit content", "obscenity", "glorification of child abuse"],
+    "featured": false,
+    "purchaseLinks": {
+      "bookshop": "https://bookshop.org/p/books/lolita-vladimir-nabokov/9780679723165",
+      "library": "https://www.worldcat.org/search?q=9780679723165"
+    },
+    "relatedBookIds": ["book-033", "book-035", "book-031"]
+  },
+  {
+    "id": "book-035",
+    "slug": "naked-lunch",
+    "title": "Naked Lunch",
+    "author": "William S. Burroughs",
+    "description": "A fragmented, hallucinatory novel depicting the nightmarish drug addiction experiences of William Lee across America, Tangier, and fantastical landscapes. Published in Paris in 1959, the book was seized by US customs and was the subject of a landmark 1966 Massachusetts Supreme Court obscenity trial — the last major US literary obscenity case — before being declared not obscene.",
+    "coverUrl": "",
+    "isbn": "9780802133182",
+    "publishedYear": 1959,
+    "topics": ["drugs", "sexuality", "censorship", "violence", "politics"],
+    "challengeReasons": ["obscenity", "explicit drug use", "sexually explicit content", "violence", "deemed pornographic"],
+    "featured": false,
+    "purchaseLinks": {
+      "bookshop": "https://bookshop.org/p/books/naked-lunch-william-s-burroughs/9780802133182",
+      "library": "https://www.worldcat.org/search?q=9780802133182"
+    },
+    "relatedBookIds": ["book-033", "book-034", "book-057"]
+  },
+  {
+    "id": "book-036",
+    "slug": "the-adventures-of-huckleberry-finn",
+    "title": "The Adventures of Huckleberry Finn",
+    "author": "Mark Twain",
+    "description": "Huck Finn fakes his own death to escape his abusive father and embarks on a raft journey down the Mississippi River with Jim, an enslaved man seeking freedom. Twain's satirical masterpiece has been one of the most challenged books in American history — first banned in 1885 by Concord Public Library as \"trash,\" and repeatedly challenged since for its use of racial slurs and its complex racial themes.",
+    "coverUrl": "",
+    "isbn": "9780142437179",
+    "publishedYear": 1884,
+    "topics": ["race", "history", "language", "coming-of-age", "censorship"],
+    "challengeReasons": ["racial slurs", "racial themes", "unsuitable for age group", "considered coarse and morally objectionable"],
+    "featured": false,
+    "purchaseLinks": {
+      "bookshop": "https://bookshop.org/p/books/the-adventures-of-huckleberry-finn-mark-twain/9780142437179",
+      "library": "https://www.worldcat.org/search?q=9780142437179"
+    },
+    "relatedBookIds": ["book-008", "book-038", "book-046"]
+  },
+  {
+    "id": "book-037",
+    "slug": "the-grapes-of-wrath",
+    "title": "The Grapes of Wrath",
+    "author": "John Steinbeck",
+    "description": "The Joad family, Dust Bowl migrants, travel west to California in search of work and dignity, only to find exploitation and despair. Steinbeck's Pulitzer Prize-winning novel was publicly burned in Kern County, California in 1939, banned by the Buffalo, New York public library system, and condemned as communist propaganda — yet it became one of America's most celebrated novels.",
+    "coverUrl": "",
+    "isbn": "9780143039433",
+    "publishedYear": 1939,
+    "topics": ["class", "politics", "history", "family", "violence"],
+    "challengeReasons": ["communist propaganda allegations", "profanity", "sexual references", "challenges to authority"],
+    "featured": false,
+    "purchaseLinks": {
+      "bookshop": "https://bookshop.org/p/books/the-grapes-of-wrath-john-steinbeck/9780143039433",
+      "library": "https://www.worldcat.org/search?q=9780143039433"
+    },
+    "relatedBookIds": ["book-038", "book-054", "book-055"]
+  },
+  {
+    "id": "book-038",
+    "slug": "of-mice-and-men",
+    "title": "Of Mice and Men",
+    "author": "John Steinbeck",
+    "description": "Itinerant ranch workers George Milton and Lennie Small share a dream of owning their own land in Depression-era California. Steinbeck's novella has been one of the most consistently challenged books in American schools for nearly a century, challenged for its profanity, racial slurs, and frank treatment of euthanasia.",
+    "coverUrl": "",
+    "isbn": "9780140177398",
+    "publishedYear": 1937,
+    "topics": ["class", "language", "race", "violence", "history"],
+    "challengeReasons": ["profanity", "racial slurs", "euthanasia themes", "unsuitable for age group"],
+    "featured": false,
+    "purchaseLinks": {
+      "bookshop": "https://bookshop.org/p/books/of-mice-and-men-john-steinbeck/9780140177398",
+      "library": "https://www.worldcat.org/search?q=9780140177398"
+    },
+    "relatedBookIds": ["book-037", "book-036", "book-008"]
+  },
+  {
+    "id": "book-039",
+    "slug": "animal-farm",
+    "title": "Animal Farm",
+    "author": "George Orwell",
+    "description": "Farm animals overthrow their human farmer in a revolution, only to find their new pig leaders as tyrannical as the old masters. Orwell's allegorical satire of Stalinism was rejected by four British publishers who feared offending the Soviet ally during World War II; after publication it was banned in the USSR and Soviet satellite states, and remains banned or restricted in several authoritarian countries.",
+    "coverUrl": "",
+    "isbn": "9780451526342",
+    "publishedYear": 1945,
+    "topics": ["politics", "censorship", "history", "class"],
+    "challengeReasons": ["communist country bans for anti-Soviet allegory", "political content", "subversive themes"],
+    "featured": false,
+    "purchaseLinks": {
+      "bookshop": "https://bookshop.org/p/books/animal-farm-george-orwell/9780451526342",
+      "library": "https://www.worldcat.org/search?q=9780451526342"
+    },
+    "relatedBookIds": ["book-006", "book-007", "book-040"]
+  },
+  {
+    "id": "book-040",
+    "slug": "lord-of-the-flies",
+    "title": "Lord of the Flies",
+    "author": "William Golding",
+    "description": "A group of British boys stranded on an uninhabited island after their plane is shot down during wartime attempt to govern themselves, with catastrophic results. Golding's Nobel Prize-winning novel has been challenged repeatedly in American schools for its graphic violence, its dark view of human nature, and its language, while being celebrated as a foundational text about civilization and savagery.",
+    "coverUrl": "",
+    "isbn": "9780399501487",
+    "publishedYear": 1954,
+    "topics": ["violence", "politics", "coming-of-age", "war", "language"],
+    "challengeReasons": ["violence", "profanity", "anti-democratic themes", "demoralizing for children"],
+    "featured": false,
+    "purchaseLinks": {
+      "bookshop": "https://bookshop.org/p/books/lord-of-the-flies-william-golding/9780399501487",
+      "library": "https://www.worldcat.org/search?q=9780399501487"
+    },
+    "relatedBookIds": ["book-039", "book-006", "book-011"]
+  },
+  {
+    "id": "book-041",
+    "slug": "the-diary-of-a-young-girl",
+    "title": "The Diary of a Young Girl",
+    "author": "Anne Frank",
+    "description": "Written while Anne Frank and her family hid from the Nazis in a secret Amsterdam annex from 1942 to 1944, this diary is one of the most widely read accounts of the Holocaust. The book has been challenged in some US school districts for being too mature or depressing, and a Virginia school district temporarily removed it in 2021 over a passage describing Anne's curiosity about female anatomy.",
+    "coverUrl": "",
+    "isbn": "9780553296983",
+    "publishedYear": 1947,
+    "topics": ["history", "war", "coming-of-age", "family", "politics"],
+    "challengeReasons": ["deemed too depressing", "sexually explicit passage", "negative view of parents", "unsuitable for age group"],
+    "featured": false,
+    "purchaseLinks": {
+      "bookshop": "https://bookshop.org/p/books/the-diary-of-a-young-girl-anne-frank/9780553296983",
+      "library": "https://www.worldcat.org/search?q=9780553296983"
+    },
+    "relatedBookIds": ["book-010", "book-039", "book-040"]
+  },
+  {
+    "id": "book-042",
+    "slug": "catch-22",
+    "title": "Catch-22",
+    "author": "Joseph Heller",
+    "description": "Captain John Yossarian, a World War II bombardier stationed in Italy, tries desperately to be declared insane so he can be grounded — only to discover the military's circular logic known as Catch-22 makes it impossible. Heller's satirical novel was challenged in several US school districts throughout the 1970s for its profanity, sexual content, and anti-war themes.",
+    "coverUrl": "",
+    "isbn": "9781451626650",
+    "publishedYear": 1961,
+    "topics": ["war", "censorship", "violence", "sexuality", "language"],
+    "challengeReasons": ["profanity", "sexually explicit content", "anti-war themes", "unsuitable for age group"],
+    "featured": false,
+    "purchaseLinks": {
+      "bookshop": "https://bookshop.org/p/books/catch-22-joseph-heller/9781451626650",
+      "library": "https://www.worldcat.org/search?q=9781451626650"
+    },
+    "relatedBookIds": ["book-011", "book-040", "book-039"]
+  },
+  {
+    "id": "book-043",
+    "slug": "a-clockwork-orange",
+    "title": "A Clockwork Orange",
+    "author": "Anthony Burgess",
+    "description": "In a bleak near-future Britain, teenage gang leader Alex and his droogs commit acts of extreme violence before Alex is arrested and subjected to an experimental aversion therapy. Burgess's novel, written in invented slang called Nadsat, was banned in some US high schools and famously controversialized by Stanley Kubrick's film adaptation.",
+    "coverUrl": "",
+    "isbn": "9780393312836",
+    "publishedYear": 1962,
+    "topics": ["violence", "politics", "language", "censorship", "coming-of-age"],
+    "challengeReasons": ["graphic violence", "sexual violence", "profanity", "glorification of criminal behavior"],
+    "featured": false,
+    "purchaseLinks": {
+      "bookshop": "https://bookshop.org/p/books/a-clockwork-orange-anthony-burgess/9780393312836",
+      "library": "https://www.worldcat.org/search?q=9780393312836"
+    },
+    "relatedBookIds": ["book-006", "book-040", "book-042"]
+  },
+  {
+    "id": "book-044",
+    "slug": "american-psycho",
+    "title": "American Psycho",
+    "author": "Bret Easton Ellis",
+    "description": "Patrick Bateman, a wealthy Manhattan investment banker, harbors a secret life as a serial killer. Ellis's satirical skewering of 1980s consumerism and masculinity was so graphically violent and sexual that Simon & Schuster dropped it before publication; it was published by Vintage in 1991, banned in Germany until 2000, and is still sold only shrink-wrapped to adults in Queensland, Australia.",
+    "coverUrl": "",
+    "isbn": "9780679735779",
+    "publishedYear": 1991,
+    "topics": ["violence", "sexuality", "class", "censorship", "mental-health"],
+    "challengeReasons": ["graphic violence against women", "sexually explicit content", "deemed misogynistic", "glorification of murder"],
+    "featured": false,
+    "purchaseLinks": {
+      "bookshop": "https://bookshop.org/p/books/american-psycho-bret-easton-ellis/9780679735779",
+      "library": "https://www.worldcat.org/search?q=9780679735779"
+    },
+    "relatedBookIds": ["book-043", "book-035", "book-042"]
+  },
+  {
+    "id": "book-045",
+    "slug": "the-autobiography-of-malcolm-x",
+    "title": "The Autobiography of Malcolm X",
+    "author": "Malcolm X & Alex Haley",
+    "description": "Dictated to Alex Haley before his 1965 assassination, this memoir traces Malcolm X's transformation from street criminal to Nation of Islam minister to internationalist human rights advocate. The book has been challenged in schools across the United States for its criticism of white America, its advocacy for Black self-determination, and its frank discussion of race and religion.",
+    "coverUrl": "",
+    "isbn": "9780345376718",
+    "publishedYear": 1965,
+    "topics": ["race", "politics", "religion", "history", "identity"],
+    "challengeReasons": ["anti-white content allegations", "racial themes", "religious content", "political viewpoint"],
+    "featured": false,
+    "purchaseLinks": {
+      "bookshop": "https://bookshop.org/p/books/the-autobiography-of-malcolm-x-malcolm-x/9780345376718",
+      "library": "https://www.worldcat.org/search?q=9780345376718"
+    },
+    "relatedBookIds": ["book-046", "book-047", "book-016"]
+  },
+  {
+    "id": "book-046",
+    "slug": "invisible-man",
+    "title": "Invisible Man",
+    "author": "Ralph Ellison",
+    "description": "An unnamed Black narrator recounts his journey from the Jim Crow South to Harlem's political underground, describing how racism renders Black Americans literally invisible to white society. This National Book Award winner was challenged in several US school systems for its language and sexual content, and was removed from a Butler County, Pennsylvania high school reading list in 1975.",
+    "coverUrl": "",
+    "isbn": "9780679724476",
+    "publishedYear": 1952,
+    "topics": ["race", "identity", "politics", "history", "language"],
+    "challengeReasons": ["racial slurs", "sexually explicit content", "language", "racial themes"],
+    "featured": false,
+    "purchaseLinks": {
+      "bookshop": "https://bookshop.org/p/books/invisible-man-ralph-ellison/9780679724476",
+      "library": "https://www.worldcat.org/search?q=9780679724476"
+    },
+    "relatedBookIds": ["book-045", "book-047", "book-008"]
+  },
+  {
+    "id": "book-047",
+    "slug": "native-son",
+    "title": "Native Son",
+    "author": "Richard Wright",
+    "description": "Bigger Thomas, a young Black man trapped by poverty and racism in 1930s Chicago, accidentally kills a white woman and becomes the subject of a manhunt. Wright's explosive novel was selected by the Book-of-the-Month Club only after Wright agreed to tone down some sexual content; it was banned from the libraries of multiple American cities and remains one of the most challenged books dealing with race in the United States.",
+    "coverUrl": "",
+    "isbn": "9780061148507",
+    "publishedYear": 1940,
+    "topics": ["race", "violence", "class", "politics", "history"],
+    "challengeReasons": ["sexual content", "violence", "racial themes", "communist ideology allegations"],
+    "featured": false,
+    "purchaseLinks": {
+      "bookshop": "https://bookshop.org/p/books/native-son-richard-wright/9780061148507",
+      "library": "https://www.worldcat.org/search?q=9780061148507"
+    },
+    "relatedBookIds": ["book-046", "book-045", "book-050"]
+  },
+  {
+    "id": "book-048",
+    "slug": "giovannis-room",
+    "title": "Giovanni's Room",
+    "author": "James Baldwin",
+    "description": "An American man in Paris, engaged to a woman, falls into a passionate love affair with an Italian bartender named Giovanni. Baldwin's second novel was rejected by his American publisher, who feared it would damage his reputation; it was challenged in school districts for its homosexual themes and remains one of the earliest major American novels to center a gay relationship.",
+    "coverUrl": "",
+    "isbn": "9780345806567",
+    "publishedYear": 1956,
+    "topics": ["lgbtq", "sexuality", "identity", "censorship"],
+    "challengeReasons": ["homosexual themes", "sexually explicit content", "unsuitable for age group"],
+    "featured": false,
+    "purchaseLinks": {
+      "bookshop": "https://bookshop.org/p/books/giovannis-room-james-baldwin/9780345806567",
+      "library": "https://www.worldcat.org/search?q=9780345806567"
+    },
+    "relatedBookIds": ["book-049", "book-060", "book-025"]
+  },
+  {
+    "id": "book-049",
+    "slug": "the-well-of-loneliness",
+    "title": "The Well of Loneliness",
+    "author": "Radclyffe Hall",
+    "description": "Stephen Gordon, an upper-class English woman who identifies as an 'invert,' falls in love with other women and struggles to find acceptance in early twentieth-century society. Upon publication in 1928, the British Home Secretary ordered the novel suppressed as obscene for its lesbian content; the publisher was prosecuted and the book was banned in the UK until 1949.",
+    "coverUrl": "",
+    "isbn": "9780385126380",
+    "publishedYear": 1928,
+    "topics": ["lgbtq", "gender", "sexuality", "censorship", "identity"],
+    "challengeReasons": ["lesbian content", "obscenity charges", "homosexual themes", "immorality"],
+    "featured": false,
+    "purchaseLinks": {
+      "bookshop": "https://bookshop.org/p/books/the-well-of-loneliness-radclyffe-hall/9780385126380",
+      "library": "https://www.worldcat.org/search?q=9780385126380"
+    },
+    "relatedBookIds": ["book-048", "book-025", "book-032"]
+  },
+  {
+    "id": "book-050",
+    "slug": "their-eyes-were-watching-god",
+    "title": "Their Eyes Were Watching God",
+    "author": "Zora Neale Hurston",
+    "description": "Janie Crawford tells the story of her life and three marriages in early twentieth-century Florida, searching for identity, voice, and love. Largely ignored after its 1937 publication and dismissed by some Black critics for its dialect and lack of racial protest, the novel was rediscovered through Alice Walker's advocacy and has since been challenged in schools for its sexuality and dialect.",
+    "coverUrl": "",
+    "isbn": "9780061120060",
+    "publishedYear": 1937,
+    "topics": ["race", "gender", "identity", "sexuality", "language"],
+    "challengeReasons": ["sexually explicit content", "dialect language", "racial themes", "unsuitable for age group"],
+    "featured": false,
+    "purchaseLinks": {
+      "bookshop": "https://bookshop.org/p/books/their-eyes-were-watching-god-zora-neale-hurston/9780061120060",
+      "library": "https://www.worldcat.org/search?q=9780061120060"
+    },
+    "relatedBookIds": ["book-047", "book-046", "book-012"]
+  },
+  {
+    "id": "book-051",
+    "slug": "the-scarlet-letter",
+    "title": "The Scarlet Letter",
+    "author": "Nathaniel Hawthorne",
+    "description": "In seventeenth-century Puritan Boston, Hester Prynne is publicly shamed for the sin of adultery, forced to wear a scarlet 'A' upon her chest. Hawthorne's novel critiques the hypocrisy and cruelty of religious moral enforcement; it was challenged in early America for its sympathetic portrayal of an adulteress and has been challenged in modern US schools for sexual content.",
+    "coverUrl": "",
+    "isbn": "9780142437261",
+    "publishedYear": 1850,
+    "topics": ["religion", "sexuality", "history", "gender", "censorship"],
+    "challengeReasons": ["sexually immoral content", "anti-Christian themes", "blasphemy", "adultery"],
+    "featured": false,
+    "purchaseLinks": {
+      "bookshop": "https://bookshop.org/p/books/the-scarlet-letter-nathaniel-hawthorne/9780142437261",
+      "library": "https://www.worldcat.org/search?q=9780142437261"
+    },
+    "relatedBookIds": ["book-052", "book-009", "book-054"]
+  },
+  {
+    "id": "book-052",
+    "slug": "the-canterbury-tales",
+    "title": "The Canterbury Tales",
+    "author": "Geoffrey Chaucer",
+    "description": "A group of pilgrims traveling to Canterbury compete by telling stories ranging from chivalric romances to bawdy fabliaux. Chaucer's fourteenth-century masterpiece has been banned, expurgated, and censored in various eras for its sexual frankness, scatological humor, and ribald tales; American school districts have challenged it for vulgarity.",
+    "coverUrl": "",
+    "isbn": "9780140422344",
+    "publishedYear": 1387,
+    "topics": ["sexuality", "religion", "language", "class", "censorship"],
+    "challengeReasons": ["bawdy sexual content", "vulgarity", "scatological humor", "irreverence toward religion"],
+    "featured": false,
+    "purchaseLinks": {
+      "bookshop": "https://bookshop.org/p/books/the-canterbury-tales-geoffrey-chaucer/9780140422344",
+      "library": "https://www.worldcat.org/search?q=9780140422344"
+    },
+    "relatedBookIds": ["book-051", "book-031", "book-059"]
+  },
+  {
+    "id": "book-053",
+    "slug": "alices-adventures-in-wonderland",
+    "title": "Alice's Adventures in Wonderland",
+    "author": "Lewis Carroll",
+    "description": "After following a White Rabbit down a hole, Alice enters a fantastical world of impossible physics and strange logic. Beyond its surreal whimsy, the book was banned in Hunan Province, China in 1931 for its portrayal of animals speaking and acting like humans — authorities argued it was an insult to suggest humans and animals were on the same level.",
+    "coverUrl": "",
+    "isbn": "9780141439761",
+    "publishedYear": 1865,
+    "topics": ["censorship", "politics", "coming-of-age"],
+    "challengeReasons": ["anthropomorphized animals deemed disrespectful to humans", "drug use allegory", "anti-authority themes"],
+    "featured": false,
+    "purchaseLinks": {
+      "bookshop": "https://bookshop.org/p/books/alices-adventures-in-wonderland-lewis-carroll/9780141439761",
+      "library": "https://www.worldcat.org/search?q=9780141439761"
+    },
+    "relatedBookIds": ["book-052", "book-029", "book-007"]
+  },
+  {
+    "id": "book-054",
+    "slug": "the-sun-also-rises",
+    "title": "The Sun Also Rises",
+    "author": "Ernest Hemingway",
+    "description": "Jake Barnes, an American expatriate journalist wounded in World War I, travels with the \"Lost Generation\" through Paris and Pamplona, nursing his love for the liberated Lady Brett Ashley. The novel was banned in Boston in 1930 by the Watch and Ward Society for its frank treatment of sexuality, drunkenness, and moral ambiguity.",
+    "coverUrl": "",
+    "isbn": "9780743297332",
+    "publishedYear": 1926,
+    "topics": ["war", "sexuality", "censorship", "gender", "identity"],
+    "challengeReasons": ["immoral content", "glorification of drunkenness", "sexually explicit content", "unsuitable for youth"],
+    "featured": false,
+    "purchaseLinks": {
+      "bookshop": "https://bookshop.org/p/books/the-sun-also-rises-ernest-hemingway/9780743297332",
+      "library": "https://www.worldcat.org/search?q=9780743297332"
+    },
+    "relatedBookIds": ["book-055", "book-037", "book-042"]
+  },
+  {
+    "id": "book-055",
+    "slug": "a-farewell-to-arms",
+    "title": "A Farewell to Arms",
+    "author": "Ernest Hemingway",
+    "description": "American ambulance driver Frederic Henry falls in love with British nurse Catherine Barkley against the backdrop of World War I's Italian campaign. The novel was banned in Italy for its portrayal of the Italian army's defeat and retreat at Caporetto, and was challenged in the United States for its anti-war sentiment and sexual content.",
+    "coverUrl": "",
+    "isbn": "9780684801469",
+    "publishedYear": 1929,
+    "topics": ["war", "sexuality", "censorship", "history"],
+    "challengeReasons": ["anti-war sentiment", "sexually explicit content", "unflattering depiction of Italian military", "profanity"],
+    "featured": false,
+    "purchaseLinks": {
+      "bookshop": "https://bookshop.org/p/books/a-farewell-to-arms-ernest-hemingway/9780684801469",
+      "library": "https://www.worldcat.org/search?q=9780684801469"
+    },
+    "relatedBookIds": ["book-054", "book-042", "book-011"]
+  },
+  {
+    "id": "book-056",
+    "slug": "madame-bovary",
+    "title": "Madame Bovary",
+    "author": "Gustave Flaubert",
+    "description": "Emma Bovary, a doctor's wife bored with provincial life, pursues a series of adulterous affairs in search of the romantic passion she has read about in novels. Flaubert was prosecuted for obscenity in a landmark 1857 French trial; he was acquitted, and the trial made the book an international sensation. It was also banned and condemned by moral authorities across Europe.",
+    "coverUrl": "",
+    "isbn": "9780140449129",
+    "publishedYear": 1857,
+    "topics": ["sexuality", "censorship", "gender", "class", "religion"],
+    "challengeReasons": ["obscenity", "adultery", "immoral content", "offense to public morality"],
+    "featured": false,
+    "purchaseLinks": {
+      "bookshop": "https://bookshop.org/p/books/madame-bovary-gustave-flaubert/9780140449129",
+      "library": "https://www.worldcat.org/search?q=9780140449129"
+    },
+    "relatedBookIds": ["book-051", "book-032", "book-054"]
+  },
+  {
+    "id": "book-057",
+    "slug": "the-jungle",
+    "title": "The Jungle",
+    "author": "Upton Sinclair",
+    "description": "Lithuanian immigrant Jurgis Rudkus arrives in Chicago's meatpacking district full of hope, only to be ground down by an exploitative capitalist system. Sinclair intended the book to expose the exploitation of immigrant workers; instead, public outrage over its descriptions of unsanitary meat processing led to the Pure Food and Drug Act of 1906. It was banned in Yugoslavia and East Germany.",
+    "coverUrl": "",
+    "isbn": "9780486419237",
+    "publishedYear": 1906,
+    "topics": ["class", "politics", "history", "violence", "censorship"],
+    "challengeReasons": ["socialist themes", "graphic depictions of unsanitary conditions", "communist ideology", "banned in authoritarian states"],
+    "featured": false,
+    "purchaseLinks": {
+      "bookshop": "https://bookshop.org/p/books/the-jungle-upton-sinclair/9780486419237",
+      "library": "https://www.worldcat.org/search?q=9780486419237"
+    },
+    "relatedBookIds": ["book-037", "book-058", "book-039"]
+  },
+  {
+    "id": "book-058",
+    "slug": "an-american-tragedy",
+    "title": "An American Tragedy",
+    "author": "Theodore Dreiser",
+    "description": "Clyde Griffiths, a poor young man desperate to rise in society, becomes entangled with two women and ultimately commits murder. Dreiser's monumental novel was banned in Boston in 1927 by the Watch and Ward Society for its frank depiction of sexuality, seduction, and moral corruption, and was banned in a Boston bookstore chain amid the \"Banned in Boston\" campaign.",
+    "coverUrl": "",
+    "isbn": "9780451531551",
+    "publishedYear": 1925,
+    "topics": ["class", "sexuality", "violence", "censorship", "history"],
+    "challengeReasons": ["sexually explicit content", "immoral themes", "glorification of crime", "unsuitable for youth"],
+    "featured": false,
+    "purchaseLinks": {
+      "bookshop": "https://bookshop.org/p/books/an-american-tragedy-theodore-dreiser/9780451531551",
+      "library": "https://www.worldcat.org/search?q=9780451531551"
+    },
+    "relatedBookIds": ["book-057", "book-054", "book-066"]
+  },
+  {
+    "id": "book-059",
+    "slug": "portnoys-complaint",
+    "title": "Portnoy's Complaint",
+    "author": "Philip Roth",
+    "description": "Alexander Portnoy delivers an extended monologue to his psychoanalyst about his Jewish upbringing in Newark, his overbearing mother, and his obsessive sexuality. Roth's comic novel was banned in Australia in 1969 for its explicit sexual content, banned in Lebanon for its pro-Israel elements, and condemned in Norway, making it one of the most controversially received American novels of the 1960s.",
+    "coverUrl": "",
+    "isbn": "9780679756453",
+    "publishedYear": 1969,
+    "topics": ["sexuality", "religion", "censorship", "family", "identity"],
+    "challengeReasons": ["sexually explicit content", "obscenity", "masturbation", "anti-religious content"],
+    "featured": false,
+    "purchaseLinks": {
+      "bookshop": "https://bookshop.org/p/books/portnoys-complaint-philip-roth/9780679756453",
+      "library": "https://www.worldcat.org/search?q=9780679756453"
+    },
+    "relatedBookIds": ["book-034", "book-033", "book-031"]
+  },
+  {
+    "id": "book-060",
+    "slug": "the-great-gatsby",
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "description": "Nick Carraway narrates his neighbor Jay Gatsby's obsessive pursuit of the American Dream and the green light across the bay where Daisy Buchanan lives. Fitzgerald's Jazz Age masterpiece was challenged at the Baptist College in Charleston, South Carolina in 1987 for its language and its portrayal of the moral corruption underlying the American Dream.",
+    "coverUrl": "",
+    "isbn": "9780743273565",
+    "publishedYear": 1925,
+    "topics": ["class", "censorship", "language", "history", "identity"],
+    "challengeReasons": ["profanity", "sexually explicit content", "offensive language", "glorification of immorality"],
+    "featured": false,
+    "purchaseLinks": {
+      "bookshop": "https://bookshop.org/p/books/the-great-gatsby-f-scott-fitzgerald/9780743273565",
+      "library": "https://www.worldcat.org/search?q=9780743273565"
+    },
+    "relatedBookIds": ["book-058", "book-054", "book-024"]
+  },
+  {
+    "id": "book-061",
+    "slug": "go-tell-it-on-the-mountain",
+    "title": "Go Tell It on the Mountain",
+    "author": "James Baldwin",
+    "description": "On the morning of his fourteenth birthday, John Grimes undergoes a religious conversion in his Harlem Pentecostal church while the novel explores the histories of his family across three generations. Baldwin's debut novel was challenged in American schools and libraries for its language, its frank discussion of sexuality, and its complex treatment of Black religious experience.",
+    "coverUrl": "",
+    "isbn": "9780385334570",
+    "publishedYear": 1953,
+    "topics": ["religion", "race", "sexuality", "family", "coming-of-age"],
+    "challengeReasons": ["profanity", "sexually explicit content", "anti-religious content", "unsuitable for youth"],
+    "featured": false,
+    "purchaseLinks": {
+      "bookshop": "https://bookshop.org/p/books/go-tell-it-on-the-mountain-james-baldwin/9780385334570",
+      "library": "https://www.worldcat.org/search?q=9780385334570"
+    },
+    "relatedBookIds": ["book-048", "book-045", "book-046"]
+  },
+  {
+    "id": "book-062",
+    "slug": "as-i-lay-dying",
+    "title": "As I Lay Dying",
+    "author": "William Faulkner",
+    "description": "The Bundren family transports their matriarch Addie's coffin on a harrowing journey through Mississippi to honor her wish to be buried in Jefferson. Told through fifteen distinct first-person narrators, Faulkner's novel was challenged in Vernon-Verona-Sherrill School District in New York in 1980 for its \"profanity and obscenity\" and for what a parent called a \"filthy book.\"",
+    "coverUrl": "",
+    "isbn": "9780679724258",
+    "publishedYear": 1930,
+    "topics": ["family", "religion", "language", "violence", "history"],
+    "challengeReasons": ["profanity", "obscenity", "anti-religious themes", "crude language"],
+    "featured": false,
+    "purchaseLinks": {
+      "bookshop": "https://bookshop.org/p/books/as-i-lay-dying-william-faulkner/9780679724258",
+      "library": "https://www.worldcat.org/search?q=9780679724258"
+    },
+    "relatedBookIds": ["book-063", "book-037", "book-050"]
+  },
+  {
+    "id": "book-063",
+    "slug": "the-sound-and-the-fury",
+    "title": "The Sound and the Fury",
+    "author": "William Faulkner",
+    "description": "The decline of the Compson family in Mississippi is narrated four times, once each by the intellectually disabled Benjy, the suicidal Quentin, the bitter Jason, and an omniscient narrator observing the servant Dilsey. Faulkner's modernist masterpiece has been challenged in school districts for its sexual content, racial slurs, and its portrayal of mental disability.",
+    "coverUrl": "",
+    "isbn": "9780679732242",
+    "publishedYear": 1929,
+    "topics": ["family", "race", "language", "mental-health", "history"],
+    "challengeReasons": ["sexually explicit content", "racial slurs", "profanity", "disturbing content"],
+    "featured": false,
+    "purchaseLinks": {
+      "bookshop": "https://bookshop.org/p/books/the-sound-and-the-fury-william-faulkner/9780679732242",
+      "library": "https://www.worldcat.org/search?q=9780679732242"
+    },
+    "relatedBookIds": ["book-062", "book-050", "book-037"]
+  },
+  {
+    "id": "book-064",
+    "slug": "sister-carrie",
+    "title": "Sister Carrie",
+    "author": "Theodore Dreiser",
+    "description": "Country girl Carrie Meeber comes to Chicago and rises to fame as a stage actress through relationships with men, while the men who help her descend. Dreiser's debut novel was suppressed by its own publisher, Doubleday, in 1900 after only 1,008 copies were printed, because the wife of publisher Frank Doubleday found it immoral — the first major instance of a publisher suppressing its own book for content.",
+    "coverUrl": "",
+    "isbn": "9780141441269",
+    "publishedYear": 1900,
+    "topics": ["sexuality", "class", "censorship", "gender", "identity"],
+    "challengeReasons": ["immoral content", "sympathetic portrayal of adultery and promiscuity", "unsuitable for women readers", "publisher suppression"],
+    "featured": false,
+    "purchaseLinks": {
+      "bookshop": "https://bookshop.org/p/books/sister-carrie-theodore-dreiser/9780141441269",
+      "library": "https://www.worldcat.org/search?q=9780141441269"
+    },
+    "relatedBookIds": ["book-058", "book-056", "book-051"]
+  },
+  {
+    "id": "book-065",
+    "slug": "howl-and-other-poems",
+    "title": "Howl and Other Poems",
+    "author": "Allen Ginsberg",
+    "description": "\"Howl,\" Ginsberg's incantatory poem beginning \"I saw the best minds of my generation destroyed by madness,\" mourns the destruction of Beat Generation visionaries by a conformist American society. The collection was seized by San Francisco Customs in 1956 and City Lights publisher Lawrence Ferlinghetti was arrested; his 1957 acquittal in a landmark obscenity trial established that literary works of \"redeeming social importance\" are protected.",
+    "coverUrl": "",
+    "isbn": "9780872860179",
+    "publishedYear": 1956,
+    "topics": ["censorship", "politics", "sexuality", "drugs", "identity"],
+    "challengeReasons": ["obscenity", "sexually explicit content", "drug use", "anti-conformist themes"],
+    "featured": false,
+    "purchaseLinks": {
+      "bookshop": "https://bookshop.org/p/books/howl-and-other-poems-allen-ginsberg/9780872860179",
+      "library": "https://www.worldcat.org/search?q=9780872860179"
+    },
+    "relatedBookIds": ["book-035", "book-033", "book-043"]
+  },
+  {
+    "id": "book-066",
+    "slug": "the-kama-sutra",
+    "title": "The Kama Sutra",
+    "author": "Vatsyayana",
+    "description": "The ancient Sanskrit text on human sexuality, erotic love, and emotional fulfillment, composed sometime between the third and fifth centuries CE. While only one section of the seven-part text concerns sexual positions, it became synonymous with erotic literature in the West and was banned in the United States until 1962; it remains banned or restricted in numerous countries due to its explicit sexual content.",
+    "coverUrl": "",
+    "isbn": "9780140455588",
+    "publishedYear": 400,
+    "topics": ["sexuality", "religion", "censorship", "gender"],
+    "challengeReasons": ["sexually explicit content", "obscenity", "unsuitable for general readership", "explicit sexual instruction"],
+    "featured": false,
+    "purchaseLinks": {
+      "bookshop": "https://bookshop.org/p/books/the-kama-sutra-vatsyayana/9780140455588",
+      "library": "https://www.worldcat.org/search?q=9780140455588"
+    },
+    "relatedBookIds": ["book-032", "book-059", "book-034"]
+  },
+  {
+    "id": "book-067",
+    "slug": "one-flew-over-the-cuckoos-nest",
+    "title": "One Flew Over the Cuckoo's Nest",
+    "author": "Ken Kesey",
+    "description": "Randle Patrick McMurphy, convicted of a minor crime, feigns insanity to serve his sentence in a psychiatric ward rather than prison, where he meets the tyrannical Nurse Ratched and the narrator Chief Bromden. Kesey's novel has been banned and challenged in dozens of American school districts for its language, sexual content, and drug use, and was removed from a Montana high school in 1974.",
+    "coverUrl": "",
+    "isbn": "9780451163968",
+    "publishedYear": 1962,
+    "topics": ["mental-health", "censorship", "violence", "sexuality", "drugs"],
+    "challengeReasons": ["profanity", "sexually explicit content", "drug use", "anti-institutional themes", "crude language"],
+    "featured": false,
+    "purchaseLinks": {
+      "bookshop": "https://bookshop.org/p/books/one-flew-over-the-cuckoos-nest-ken-kesey/9780451163968",
+      "library": "https://www.worldcat.org/search?q=9780451163968"
+    },
+    "relatedBookIds": ["book-043", "book-042", "book-011"]
+  },
+  {
+    "id": "book-068",
+    "slug": "main-street",
+    "title": "Main Street",
+    "author": "Sinclair Lewis",
+    "description": "Carol Milford arrives in the small Minnesota town of Gopher Prairie as a new bride full of progressive ideals, only to find conformity, anti-intellectualism, and narrow-mindedness. Lewis's satirical novel was the first by an American author to be considered for the Nobel Prize and was challenged by librarians and civic groups across the country for mocking small-town American life and values.",
+    "coverUrl": "",
+    "isbn": "9780451531285",
+    "publishedYear": 1920,
+    "topics": ["class", "gender", "censorship", "politics", "identity"],
+    "challengeReasons": ["contemptuous of American small-town values", "sexually suggestive content", "anti-conformist themes"],
+    "featured": false,
+    "purchaseLinks": {
+      "bookshop": "https://bookshop.org/p/books/main-street-sinclair-lewis/9780451531285",
+      "library": "https://www.worldcat.org/search?q=9780451531285"
+    },
+    "relatedBookIds": ["book-060", "book-058", "book-057"]
+  },
+  {
+    "id": "book-069",
+    "slug": "lady-macbeth-of-the-mtsensk-district",
+    "title": "Lady Macbeth of the Mtsensk District",
+    "author": "Nikolai Leskov",
+    "description": "Katerina Lvovna Izmailova, bored and unfulfilled in her merchant husband's household, begins a passionate affair with a laborer and commits a series of murders to protect and maintain the relationship. Leskov's 1865 novella was banned in the Soviet Union after Stalin attended and was infuriated by Shostakovich's 1934 opera adaptation; it was condemned in a 1936 Pravda editorial titled \"Muddle Instead of Music.\"",
+    "coverUrl": "",
+    "isbn": "9780143107873",
+    "publishedYear": 1865,
+    "topics": ["sexuality", "violence", "censorship", "gender", "politics"],
+    "challengeReasons": ["sexuality", "violence", "banned by Stalin for the opera adaptation", "anti-Soviet interpretation"],
+    "featured": false,
+    "purchaseLinks": {
+      "bookshop": "https://bookshop.org/p/books/lady-macbeth-of-the-mtsensk-district-nikolai-leskov/9780143107873",
+      "library": "https://www.worldcat.org/search?q=9780143107873"
+    },
+    "relatedBookIds": ["book-039", "book-056", "book-051"]
+  },
+  {
+    "id": "book-070",
+    "slug": "the-trial",
+    "title": "The Trial",
+    "author": "Franz Kafka",
+    "description": "Josef K. is arrested and prosecuted by a mysterious court for a crime that is never specified. Kafka's haunting parable of bureaucratic tyranny was banned in the German Democratic Republic, Soviet satellite states, and Nazi Germany, and was burned by the Nazis after Kafka's death. Though unpublished in Kafka's lifetime, it stands as one of the twentieth century's most important and most suppressed literary works.",
+    "coverUrl": "",
+    "isbn": "9780805209990",
+    "publishedYear": 1925,
+    "topics": ["politics", "censorship", "violence", "identity", "history"],
+    "challengeReasons": ["subversive political themes", "anti-authoritarian content", "banned under Nazi and Soviet regimes", "nihilistic worldview"],
+    "featured": false,
+    "purchaseLinks": {
+      "bookshop": "https://bookshop.org/p/books/the-trial-franz-kafka/9780805209990",
+      "library": "https://www.worldcat.org/search?q=9780805209990"
+    },
+    "relatedBookIds": ["book-039", "book-006", "book-043"]
+  }
+]

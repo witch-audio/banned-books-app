@@ -1,0 +1,902 @@
+[
+  {
+    "id": "puzzle-001",
+    "bookId": "book-001",
+    "passage": "She was one of the most beautiful women in the county. The men in town called her Breedlove because of the way she had once loved a man — before the children, before the poverty, before the ugliness settled in her eyes. Her daughter Pecola prayed every night for blue eyes, certain that if she woke up beautiful everything would be different.",
+    "passageSource": "Chapter 1",
+    "redactedWords": ["beautiful", "ugliness", "poverty", "Breedlove", "Pecola", "blue eyes"],
+    "revealOrder": [0, 1, 2, 3, 4, 5],
+    "difficulty": "medium",
+    "decoyBookIds": ["book-004", "book-012", "book-026"]
+  },
+  {
+    "id": "puzzle-002",
+    "bookId": "book-002",
+    "passage": "I had always felt uncomfortable with the labels others gave me. The word girl felt like a costume I hadn't chosen. When I first encountered the term nonbinary, something shifted — not a revelation exactly, but a recognition. Here, finally, was language that fit the shape of what I had always been.",
+    "passageSource": "Part Two",
+    "redactedWords": ["labels", "costume", "revelation", "recognition", "girl", "nonbinary"],
+    "revealOrder": [0, 1, 2, 3, 4, 5],
+    "difficulty": "medium",
+    "decoyBookIds": ["book-017", "book-003", "book-025"]
+  },
+  {
+    "id": "puzzle-003",
+    "bookId": "book-003",
+    "passage": "Being Black and queer meant living at an intersection where neither community always made room for you. I had to build my own sense of belonging, piece by piece, from the memories of my grandmother's kitchen and the voices of writers who had survived by refusing to disappear. Brotherhood, I learned, is not given. It is chosen.",
+    "passageSource": "Essay: Brotherhood",
+    "redactedWords": ["intersection", "belonging", "disappear", "Black", "queer", "Brotherhood"],
+    "revealOrder": [0, 1, 2, 3, 4, 5],
+    "difficulty": "medium",
+    "decoyBookIds": ["book-016", "book-019", "book-005"]
+  },
+  {
+    "id": "puzzle-004",
+    "bookId": "book-004",
+    "passage": "124 was spiteful. Full of a baby's venom. The women in the neighborhood called it unholy. Sethe had lived there eighteen years, sharing the house with the rage of her dead daughter — a rage so thick it could knock you sideways, scatter your shoes, and send mirrors sliding off walls.",
+    "passageSource": "Part One",
+    "redactedWords": ["venom", "unholy", "sideways", "spiteful", "124", "Sethe"],
+    "revealOrder": [0, 1, 2, 3, 4, 5],
+    "difficulty": "easy",
+    "decoyBookIds": ["book-001", "book-012", "book-026"]
+  },
+  {
+    "id": "puzzle-005",
+    "bookId": "book-005",
+    "passage": "I witnessed the whole thing. Khalil was unarmed. The officer told him to put his hands on the roof and Khalil turned back to check on me, just for a second, and then three shots rang out. I kept thinking: somebody is going to have to answer for this. That somebody was going to have to be me.",
+    "passageSource": "Chapter 2",
+    "redactedWords": ["witnessed", "officer", "roof", "shots", "unarmed", "Khalil"],
+    "revealOrder": [0, 1, 2, 3, 4, 5],
+    "difficulty": "medium",
+    "decoyBookIds": ["book-016", "book-015", "book-008"]
+  },
+  {
+    "id": "puzzle-006",
+    "bookId": "book-006",
+    "passage": "It was a bright cold day in April, and the clocks were striking thirteen. Winston Smith, his chin nuzzled into his breast in an effort to escape the vile wind, slipped quickly through the glass doors of Victory Mansions, though not quickly enough to prevent a swirl of gritty dust from entering along with him.",
+    "passageSource": "Part One, Chapter 1",
+    "redactedWords": ["April", "clocks", "striking", "thirteen", "Winston", "Victory Mansions"],
+    "revealOrder": [0, 1, 2, 3, 4, 5],
+    "difficulty": "easy",
+    "decoyBookIds": ["book-007", "book-023", "book-009"]
+  },
+  {
+    "id": "puzzle-007",
+    "bookId": "book-007",
+    "passage": "It was a pleasure to burn. It was a special pleasure to see things eaten, to see things blackened and changed. With the brass nozzle in his fists, with this great python spitting its venomous kerosene upon the world, the blood pounded in Montag's head, and his hands were the hands of some amazing conductor playing all the symphonies of blazing and burning.",
+    "passageSource": "Part One: The Hearth and the Salamander",
+    "redactedWords": ["nozzle", "python", "venomous", "blazing", "kerosene", "burn", "Montag"],
+    "revealOrder": [0, 1, 2, 3, 4, 5, 6],
+    "difficulty": "easy",
+    "decoyBookIds": ["book-006", "book-023", "book-029"]
+  },
+  {
+    "id": "puzzle-008",
+    "bookId": "book-008",
+    "passage": "Atticus said to Jem one day, 'I'd rather you shoot at tin cans in the back yard, but I know you'll go after birds. Shoot all the bluejays you want, if you can hit 'em, but remember it's a sin to kill a mockingbird.' That was the only time I ever heard Atticus say it was a sin to do something.",
+    "passageSource": "Chapter 10",
+    "redactedWords": ["bluejays", "yard", "birds", "sin", "mockingbird", "Jem", "Atticus"],
+    "revealOrder": [0, 1, 2, 3, 4, 5, 6],
+    "difficulty": "easy",
+    "decoyBookIds": ["book-001", "book-026", "book-015"]
+  },
+  {
+    "id": "puzzle-009",
+    "bookId": "book-009",
+    "passage": "My name is Offred. I have another name, which nobody uses now because it's forbidden. In Gilead, names are reassigned to erase who you were. I tell myself it doesn't matter — your name is like your telephone number, useful only to others. But what I tell myself is wrong — it does matter. I keep the name alive, in the back of my mind, the way you hoard something you might need someday.",
+    "passageSource": "Chapter 1",
+    "redactedWords": ["reassigned", "telephone", "forbidden", "hoard", "Gilead", "Offred"],
+    "revealOrder": [0, 1, 2, 3, 4, 5],
+    "difficulty": "medium",
+    "decoyBookIds": ["book-006", "book-023", "book-029"]
+  },
+  {
+    "id": "puzzle-010",
+    "bookId": "book-010",
+    "passage": "I started sketching my father as a mouse and myself as a mouse and the Nazis as cats because that's what they were — predators, and we were prey. My father told me his stories haltingly, in pieces, the way survivors do. Each time he stopped, I wondered if the silence meant he had finally run out of words, or if some things could not be said in any language.",
+    "passageSource": "Book One",
+    "redactedWords": ["sketching", "predators", "prey", "haltingly", "survivors", "mouse", "Nazis"],
+    "revealOrder": [0, 1, 2, 3, 4, 5, 6],
+    "difficulty": "medium",
+    "decoyBookIds": ["book-011", "book-006", "book-008"]
+  },
+  {
+    "id": "puzzle-011",
+    "bookId": "book-011",
+    "passage": "Billy Pilgrim has come unstuck in time. Billy has gone to sleep a senile widower and awakened on his wedding day. He has walked through a door in 1955 and come out another one in 1941. He has gone back through that door to find himself in 1963. So it goes.",
+    "passageSource": "Chapter 2",
+    "redactedWords": ["senile", "widower", "1955", "1941", "Billy Pilgrim", "unstuck in time", "So it goes"],
+    "revealOrder": [0, 1, 2, 3, 4, 5, 6],
+    "difficulty": "easy",
+    "decoyBookIds": ["book-010", "book-023", "book-006"]
+  },
+  {
+    "id": "puzzle-012",
+    "bookId": "book-012",
+    "passage": "Dear God, I am Celie, and I am fourteen years old. I have always been a good girl. Maybe you can give me a sign letting me know what is happening to me. My mama died when I was eight. My stepfather has lived with us since. He beats me, then he rapes me. Then he takes my baby. I don't know why he do this to me.",
+    "passageSource": "Opening letters",
+    "redactedWords": ["fourteen", "beats", "rapes", "God", "stepfather", "Celie"],
+    "revealOrder": [0, 1, 2, 3, 4, 5],
+    "difficulty": "medium",
+    "decoyBookIds": ["book-001", "book-026", "book-004"]
+  },
+  {
+    "id": "puzzle-013",
+    "bookId": "book-013",
+    "passage": "Dear friend, I am Charlie, and I am writing to you because she said you listen. I am what people call a wallflower — someone who watches and feels everything but never says it out loud. She said you understand, that you didn't try to sleep with that person at that party even though you could have. I just need to know that people like you exist. We are infinite, you and I.",
+    "passageSource": "First letter",
+    "redactedWords": ["friend", "listen", "watches", "wallflower", "infinite", "Charlie"],
+    "revealOrder": [0, 1, 2, 3, 4, 5],
+    "difficulty": "medium",
+    "decoyBookIds": ["book-014", "book-022", "book-030"]
+  },
+  {
+    "id": "puzzle-014",
+    "bookId": "book-014",
+    "passage": "I was sitting in my room thinking about the Great Perhaps, wondering if Alaska had found hers. She used to talk about escaping the labyrinth of suffering — that was the question she carried everywhere. She had spent so much of her life racing toward some imagined future, and I had spent so much of mine watching her, never close enough to understand what it was she was running from.",
+    "passageSource": "After",
+    "redactedWords": ["suffering", "imagined", "escaping", "labyrinth", "Great Perhaps", "Alaska"],
+    "revealOrder": [0, 1, 2, 3, 4, 5],
+    "difficulty": "medium",
+    "decoyBookIds": ["book-013", "book-022", "book-030"]
+  },
+  {
+    "id": "puzzle-015",
+    "bookId": "book-015",
+    "passage": "I was a reservation kid who decided to go to the white school. My parents were shocked. My sister was indifferent. But Rowdy, my best friend, looked at me like I had just said I was from another planet. 'You're going to Reardan?' he asked. 'That's twenty-two miles from here.' 'I know,' I said. 'I have to.' He didn't understand. I barely did either.",
+    "passageSource": "Chapter 5",
+    "redactedWords": ["indifferent", "planet", "miles", "reservation", "Reardan", "Rowdy"],
+    "revealOrder": [0, 1, 2, 3, 4, 5],
+    "difficulty": "medium",
+    "decoyBookIds": ["book-005", "book-008", "book-022"]
+  },
+  {
+    "id": "puzzle-016",
+    "bookId": "book-016",
+    "passage": "This is not a history book. It is a remix. It takes the tangled, three-hundred-year-old history of racist ideas in America and makes it accessible to anyone willing to look. There are three types of people in this world when it comes to race: racist, antiracist, and the kind of person who says they are neither — which, in truth, is always the first.",
+    "passageSource": "Introduction",
+    "redactedWords": ["remix", "accessible", "race", "history", "racist", "antiracist"],
+    "revealOrder": [0, 1, 2, 3, 4, 5],
+    "difficulty": "hard",
+    "decoyBookIds": ["book-005", "book-003", "book-026"]
+  },
+  {
+    "id": "puzzle-017",
+    "bookId": "book-017",
+    "passage": "Coming out is not one moment. It is not a door you walk through and arrive changed. Being gay, or queer, or bi, or trans — each word carries its own weight and history. Coming out is more like a series of small daily decisions about who you trust with the truth of who you are. Some days you are out to everyone. Some days you are a secret even to yourself.",
+    "passageSource": "Chapter 3: Coming Out",
+    "redactedWords": ["bi", "trans", "decisions", "secret", "gay", "queer", "Coming out"],
+    "revealOrder": [0, 1, 2, 3, 4, 5, 6],
+    "difficulty": "hard",
+    "decoyBookIds": ["book-002", "book-003", "book-025"]
+  },
+  {
+    "id": "puzzle-018",
+    "bookId": "book-018",
+    "passage": "At camp, everyone gave you a nickname. Mine was Aiden, still, but some of the older boys had started calling me Flamer behind my back. I didn't understand what it meant at first. Then I understood too well. I learned to walk differently, to hold my voice flat, to take up less space. I practiced disappearing.",
+    "passageSource": "Week One",
+    "redactedWords": ["nickname", "back", "disappearing", "camp", "Flamer", "Aiden"],
+    "revealOrder": [0, 1, 2, 3, 4, 5],
+    "difficulty": "medium",
+    "decoyBookIds": ["book-002", "book-027", "book-003"]
+  },
+  {
+    "id": "puzzle-019",
+    "bookId": "book-019",
+    "passage": "My name is Mike Muñoz. I'm twenty-two years old and I mow lawns for a living. Not because I dreamed of it — nobody dreams of this. I do it because I needed work and work was scarce and somewhere along the way I started to realize that what a man does for money doesn't have to define what he is capable of becoming.",
+    "passageSource": "Chapter 1",
+    "redactedWords": ["scarce", "capable", "becoming", "lawns", "Muñoz", "Mike"],
+    "revealOrder": [0, 1, 2, 3, 4, 5],
+    "difficulty": "hard",
+    "decoyBookIds": ["book-003", "book-013", "book-015"]
+  },
+  {
+    "id": "puzzle-020",
+    "bookId": "book-020",
+    "passage": "In East Texas, in 1937, there were rules about who could love whom and what happened to people who broke those rules. Naomi knew them the way you know the shape of a scar — by feel, in the dark. Wash knew them too. They met anyway, by the river, where the trees were thick enough to hide two people who had no business being together.",
+    "passageSource": "Part Two",
+    "redactedWords": ["1937", "scar", "river", "East Texas", "Naomi", "Wash"],
+    "revealOrder": [0, 1, 2, 3, 4, 5],
+    "difficulty": "hard",
+    "decoyBookIds": ["book-001", "book-008", "book-012"]
+  },
+  {
+    "id": "puzzle-021",
+    "bookId": "book-021",
+    "passage": "There is a way that fathers and sons in Kabul talk around the things that matter. My father, Baba, was a man of great silences and greater acts. He built an orphanage with his own money and he never spoke of it. What I, Amir, did not know then — what I only understood years later, in America, too far from everything to change it — was that silence is not the same as peace.",
+    "passageSource": "Part One",
+    "redactedWords": ["orphanage", "silences", "America", "Kabul", "Baba", "Amir"],
+    "revealOrder": [0, 1, 2, 3, 4, 5],
+    "difficulty": "medium",
+    "decoyBookIds": ["book-008", "book-011", "book-020"]
+  },
+  {
+    "id": "puzzle-022",
+    "bookId": "book-022",
+    "passage": "I am Melinda, and I have been trying to remember who I was before the party — before IT happened. I used to talk constantly. My mother said I came out of the womb with opinions. Now the words sit in my chest like stones, too heavy to lift. I drew a picture of a tree in art class and my teacher, Mr. Freeman, thought it meant something. It did.",
+    "passageSource": "First Marking Period",
+    "redactedWords": ["womb", "opinions", "stones", "IT", "Mr. Freeman", "Melinda"],
+    "revealOrder": [0, 1, 2, 3, 4, 5],
+    "difficulty": "medium",
+    "decoyBookIds": ["book-013", "book-014", "book-020"]
+  },
+  {
+    "id": "puzzle-023",
+    "bookId": "book-023",
+    "passage": "A squat grey building of only thirty-four stories. Over the main entrance the words, CENTRAL LONDON HATCHERY AND CONDITIONING CENTRE, and, in a shield, the World State's motto, COMMUNITY, IDENTITY, STABILITY. Inside, Bernard Marx moved between the rows of incubating embryos. Outside in his pocket, he carried soma tablets he would never take. He wanted to feel the world as it was, not as they had arranged it.",
+    "passageSource": "Chapter 1",
+    "redactedWords": ["embryos", "STABILITY", "COMMUNITY", "CONDITIONING CENTRE", "soma", "Bernard", "Marx"],
+    "revealOrder": [0, 1, 2, 3, 4, 5, 6],
+    "difficulty": "medium",
+    "decoyBookIds": ["book-006", "book-007", "book-029"]
+  },
+  {
+    "id": "puzzle-024",
+    "bookId": "book-024",
+    "passage": "If you really want to hear about it, the first thing you'll probably want to know is where I, Holden Caulfield, was born. I was at Pencey Prep before they kicked me out. My lousy childhood — and all that David Copperfield kind of crap — I don't feel like going into, if you want to know the truth. What I can tell you is that the world is full of phony people and I am very tired of them.",
+    "passageSource": "Chapter 1",
+    "redactedWords": ["lousy", "Caulfield", "Copperfield", "Pencey", "phony", "Holden"],
+    "revealOrder": [0, 1, 2, 3, 4, 5],
+    "difficulty": "easy",
+    "decoyBookIds": ["book-013", "book-011", "book-015"]
+  },
+  {
+    "id": "puzzle-025",
+    "bookId": "book-025",
+    "passage": "My father died in 1980, the same year I came out as a lesbian. I, Alison Bechdel, had not known he was gay, and he had not known I was gay, or if he did, he took that knowledge with him. The funeral home we called the Fun Home was the one he ran. What we shared was a love of literature and a talent for concealment, and his death reshaped everything I would ever write.",
+    "passageSource": "Chapter 1: Old Father, Old Artificer",
+    "redactedWords": ["concealment", "1980", "Alison", "lesbian", "Bechdel", "Fun Home"],
+    "revealOrder": [0, 1, 2, 3, 4, 5],
+    "difficulty": "medium",
+    "decoyBookIds": ["book-002", "book-017", "book-003"]
+  },
+  {
+    "id": "puzzle-026",
+    "bookId": "book-026",
+    "passage": "I, Maya Angelou, grew up knowing why the caged bird beats his wing till its blood is red on the cruel bars. The free bird thinks of another breeze and the trade winds soft through the sighing trees — but a caged bird sings of things unknown. Stamps, Arkansas was my cage. And still I sang.",
+    "passageSource": "Chapter 1",
+    "redactedWords": ["Angelou", "Arkansas", "cage", "Stamps", "caged bird", "Maya"],
+    "revealOrder": [0, 1, 2, 3, 4, 5],
+    "difficulty": "easy",
+    "decoyBookIds": ["book-001", "book-012", "book-004"]
+  },
+  {
+    "id": "puzzle-027",
+    "bookId": "book-027",
+    "passage": "My name is Callie, and I wanted to work on the musical more than anything — building the sets, designing the whole world of the play. But backstage, everything was more complicated than the stage. Jesse and his brother were both trying out, and one of them kissed a boy during rehearsal and nobody made a big deal of it. That surprised me. It also made me feel something I couldn't name yet.",
+    "passageSource": "Act One",
+    "redactedWords": ["backstage", "rehearsal", "sets", "musical", "Jesse", "Callie"],
+    "revealOrder": [0, 1, 2, 3, 4, 5],
+    "difficulty": "hard",
+    "decoyBookIds": ["book-028", "book-018", "book-002"]
+  },
+  {
+    "id": "puzzle-028",
+    "bookId": "book-028",
+    "passage": "Roy and Silo had been together for six years at the Central Park Zoo. They bowed to each other every morning. They swam together. They sang to each other in the way that chinstrap penguins do, a braying, joyful noise. When a keeper offered them an egg that needed tending, they took turns keeping it warm. The egg hatched, and they named her Tango.",
+    "passageSource": "Pages 12–18",
+    "redactedWords": ["chinstrap", "penguins", "braying", "Zoo", "Roy", "Silo", "Tango"],
+    "revealOrder": [0, 1, 2, 3, 4, 5, 6],
+    "difficulty": "easy",
+    "decoyBookIds": ["book-027", "book-017", "book-003"]
+  },
+  {
+    "id": "puzzle-029",
+    "bookId": "book-029",
+    "passage": "It was almost December, and Jonas was beginning to be frightened. Wrong word, Jonas thought. He was apprehensive. The committee of Elders had named him Receiver of Memory — an Assignment unlike any other in the community. He was the one who would hold all the pain and beauty that Sameness had erased from everyone else's lives. He had not asked for this. He did not know yet what it would cost him.",
+    "passageSource": "Chapter 1",
+    "redactedWords": ["apprehensive", "Elders", "Assignment", "Sameness", "Receiver of Memory", "Jonas"],
+    "revealOrder": [0, 1, 2, 3, 4, 5],
+    "difficulty": "easy",
+    "decoyBookIds": ["book-007", "book-006", "book-023"]
+  },
+  {
+    "id": "puzzle-030",
+    "bookId": "book-030",
+    "passage": "Hannah Baker is dead. Everyone knows that. What they don't know — what nobody knows yet — is that before she died, she recorded thirteen cassette tapes. And she left instructions. Each tape is addressed to someone. One of them is addressed to me. Clay Jensen. My name is on her list.",
+    "passageSource": "Side A, Tape 1",
+    "redactedWords": ["recorded", "thirteen", "instructions", "tapes", "Clay Jensen", "Hannah Baker"],
+    "revealOrder": [0, 1, 2, 3, 4, 5],
+    "difficulty": "easy",
+    "decoyBookIds": ["book-013", "book-022", "book-014"]
+  },
+  {
+    "id": "puzzle-031",
+    "bookId": "book-001",
+    "passage": "The birdlike gestures she made with her hands, the way she held a cigarette — all of it added up to something that men in Lorain, Ohio found beautiful and women found dangerous. Her family name was Breedlove, and the irony of that name was not lost on anyone. She had loved, once. She had bred. What she had not done was survive it without damage.",
+    "passageSource": "Chapter 3",
+    "redactedWords": ["cigarette", "irony", "dangerous", "Lorain", "beautiful", "Breedlove"],
+    "revealOrder": [0, 1, 2, 3, 4, 5],
+    "difficulty": "hard",
+    "decoyBookIds": ["book-026", "book-012", "book-004"]
+  },
+  {
+    "id": "puzzle-032",
+    "bookId": "book-004",
+    "passage": "She was crawling already when schoolteacher, his nephews, and a slavecatcher came in the yard. Stamp Paid was there and saw what Sethe did with her own hands, and he never forgot it. Some things you do because you have to. Some things you do because you believe there is no other way. Sethe believed. That was the difference between her and everyone else.",
+    "passageSource": "Part One, Chapter 16",
+    "redactedWords": ["slavecatcher", "nephews", "yard", "schoolteacher", "Stamp Paid", "Sethe"],
+    "revealOrder": [0, 1, 2, 3, 4, 5],
+    "difficulty": "hard",
+    "decoyBookIds": ["book-001", "book-012", "book-026"]
+  },
+  {
+    "id": "puzzle-033",
+    "bookId": "book-005",
+    "passage": "Starr. That's my name. It's the kind of name that sounds like a joke until you meet me. I live in Garden Heights, which means I know how to move through a crowd at a block party and how to move through a hallway at Williamson Prep — two entirely different ways of being in a body. The night Khalil was shot, I was the only witness. That fact never left me alone.",
+    "passageSource": "Chapter 1",
+    "redactedWords": ["witness", "Williamson Prep", "block party", "Garden Heights", "Khalil", "Starr"],
+    "revealOrder": [0, 1, 2, 3, 4, 5],
+    "difficulty": "medium",
+    "decoyBookIds": ["book-016", "book-015", "book-003"]
+  },
+  {
+    "id": "puzzle-034",
+    "bookId": "book-006",
+    "passage": "WAR IS PEACE. FREEDOM IS SLAVERY. IGNORANCE IS STRENGTH. The three slogans of the Party were cut into the white concrete of the Ministry of Truth. Winston Smith repeated them, practicing the doublethink that the Party demanded — the capacity to hold two contradictory beliefs at once and believe both. Above them all, the face of Big Brother stared down from every wall.",
+    "passageSource": "Part One, Chapter 1",
+    "redactedWords": ["IGNORANCE", "SLAVERY", "Ministry of Truth", "doublethink", "Winston Smith", "Big Brother"],
+    "revealOrder": [0, 1, 2, 3, 4, 5],
+    "difficulty": "easy",
+    "decoyBookIds": ["book-023", "book-009", "book-007"]
+  },
+  {
+    "id": "puzzle-035",
+    "bookId": "book-007",
+    "passage": "Clarisse McClellan came out of the dark house, dancing ahead of him. She was seventeen and she was crazy and she told him that she liked the rain. She rubbed a dandelion under her chin and asked if he was happy. The question hit Montag somewhere he had no name for. Was he happy? He had never thought to ask himself that.",
+    "passageSource": "Part One",
+    "redactedWords": ["dandelion", "McClellan", "seventeen", "happy", "Clarisse", "Montag"],
+    "revealOrder": [0, 1, 2, 3, 4, 5],
+    "difficulty": "medium",
+    "decoyBookIds": ["book-006", "book-029", "book-023"]
+  },
+  {
+    "id": "puzzle-036",
+    "bookId": "book-008",
+    "passage": "The courthouse square was lined with citizens who had come from all over the county. Inside, Tom Robinson sat at the defendant's table. He was a Black man accused by a white man's word, in a white man's court, before an all-white jury. Atticus Finch stood up in that courtroom anyway, and told the truth, and that was something nobody in Maycomb could forget or forgive.",
+    "passageSource": "Chapter 17",
+    "redactedWords": ["courthouse", "defendant", "jury", "Maycomb", "Tom Robinson", "Atticus Finch"],
+    "revealOrder": [0, 1, 2, 3, 4, 5],
+    "difficulty": "easy",
+    "decoyBookIds": ["book-001", "book-026", "book-016"]
+  },
+  {
+    "id": "puzzle-037",
+    "bookId": "book-009",
+    "passage": "Under his eye. That is what they say when they part in Gilead, when one Handmaid sees another in the marketplace. Under his eye means: we are watched. Do not trust me, for I may report you. I am Offred — a name that means I belong to the Commander named Fred. Gilead gave us a language of submission and we spoke it perfectly, as if we had always known the words.",
+    "passageSource": "Chapter 4",
+    "redactedWords": ["marketplace", "Commander", "submission", "Handmaid", "Offred", "Gilead"],
+    "revealOrder": [0, 1, 2, 3, 4, 5],
+    "difficulty": "medium",
+    "decoyBookIds": ["book-006", "book-023", "book-029"]
+  },
+  {
+    "id": "puzzle-038",
+    "bookId": "book-010",
+    "passage": "My father, Vladek, was the most difficult man I ever loved. He saved every piece of string, every rubber band, every plastic bag — habits learned in Auschwitz, where he had survived by knowing how to make himself useful. After the war he carried that survival forward into peacetime. I, Art Spiegelman, drew him as a mouse and myself as a mouse and the tension between us as something that refused to fit into any panel.",
+    "passageSource": "Book Two",
+    "redactedWords": ["peacetime", "panel", "string", "Auschwitz", "Vladek", "Spiegelman"],
+    "revealOrder": [0, 1, 2, 3, 4, 5],
+    "difficulty": "medium",
+    "decoyBookIds": ["book-011", "book-006", "book-025"]
+  },
+  {
+    "id": "puzzle-039",
+    "bookId": "book-011",
+    "passage": "The firebombing of Dresden happened in February 1945. I know because I was there, in a slaughterhouse, underground, with a hundred other American prisoners of war. When we came up from the meat locker the city was gone — a moonscape of rubble and ash. So it goes. I have tried many times to write about this and each time the words come out wrong, which is to say they come out true.",
+    "passageSource": "Chapter 1",
+    "redactedWords": ["firebombing", "1945", "moonscape", "slaughterhouse", "Dresden", "So it goes"],
+    "revealOrder": [0, 1, 2, 3, 4, 5],
+    "difficulty": "medium",
+    "decoyBookIds": ["book-010", "book-006", "book-023"]
+  },
+  {
+    "id": "puzzle-040",
+    "bookId": "book-012",
+    "passage": "Shug Avery was the most beautiful thing I ever saw. Not just on the outside — though she was that too, in her silk dress and her red lipstick. She looked at me like I was a person. Like I was worth looking at. Celie, she said, and she said it like it was a whole sentence. We were in Georgia and the world was small and mean, but in that moment it opened up a little.",
+    "passageSource": "Chapter 15",
+    "redactedWords": ["lipstick", "silk", "sentence", "Georgia", "Celie", "Shug Avery"],
+    "revealOrder": [0, 1, 2, 3, 4, 5],
+    "difficulty": "medium",
+    "decoyBookIds": ["book-001", "book-026", "book-004"]
+  },
+  {
+    "id": "puzzle-041",
+    "bookId": "book-013",
+    "passage": "There's this one thing I have to tell you. Sam and Patrick took me in when I was a wallflower, a disaster of a person who cries at TV commercials and writes long letters to people he's never met. They played The Smiths in the car. They drove through a tunnel and Sam stood in the back of the pickup and the wind came in and she looked like everything good I ever imagined.",
+    "passageSource": "November letters",
+    "redactedWords": ["Smiths", "tunnel", "pickup", "wallflower", "Patrick", "Sam"],
+    "revealOrder": [0, 1, 2, 3, 4, 5],
+    "difficulty": "hard",
+    "decoyBookIds": ["book-014", "book-030", "book-022"]
+  },
+  {
+    "id": "puzzle-042",
+    "bookId": "book-014",
+    "passage": "The Colonel said: 'When you imagine Alaska, what do you see?' I — Miles Halter — said I saw her the way she was the last time, in her white sweater running to her car, crying. The Colonel nodded. He said that was his answer too. We thought about Alaska every day for a long time after that, and wondered whether it had been an accident.",
+    "passageSource": "After: 136 Days",
+    "redactedWords": ["sweater", "crying", "Halter", "Colonel", "Miles", "Alaska"],
+    "revealOrder": [0, 1, 2, 3, 4, 5],
+    "difficulty": "hard",
+    "decoyBookIds": ["book-013", "book-022", "book-030"]
+  },
+  {
+    "id": "puzzle-043",
+    "bookId": "book-015",
+    "passage": "I'm not the hero of this story. I'm just a kid from the Spokane reservation who decided to leave. Every morning I woke up at five-thirty to ride a school bus twenty-two miles to Reardan, a white town, because the only way off the reservation was through education and education was in short supply where I was from. The kids at Reardan called me the Nomad. I called myself Junior. It's complicated.",
+    "passageSource": "Chapter 7",
+    "redactedWords": ["Nomad", "five-thirty", "supply", "Spokane", "reservation", "Reardan", "Junior"],
+    "revealOrder": [0, 1, 2, 3, 4, 5, 6],
+    "difficulty": "medium",
+    "decoyBookIds": ["book-005", "book-016", "book-022"]
+  },
+  {
+    "id": "puzzle-044",
+    "bookId": "book-016",
+    "passage": "Let's be honest: America has always had a race problem. Ibram X. Kendi and Jason Reynolds argue that there are only two positions — racist or antiracist — and that neutrality is a myth. This book shows you the racist ideas that shaped American history and the antiracist thinkers who fought back. It shows you where you stand, whether you are ready to look or not.",
+    "passageSource": "Introduction",
+    "redactedWords": ["neutrality", "Reynolds", "Ibram", "Kendi", "antiracist", "racist"],
+    "revealOrder": [0, 1, 2, 3, 4, 5],
+    "difficulty": "hard",
+    "decoyBookIds": ["book-005", "book-003", "book-008"]
+  },
+  {
+    "id": "puzzle-045",
+    "bookId": "book-021",
+    "passage": "Hassan and I had run kites together for years before the winter tournament. In Kabul, flying a kite meant cutting down everyone else's. The last kite standing was the winner, and the runner who chased the fallen kites was given a place of honor. Hassan was the best kite runner I had ever known. He would never tell me where the kite would fall — he always just knew.",
+    "passageSource": "Part One, Chapter 5",
+    "redactedWords": ["tournament", "winner", "runner", "Kabul", "kite runner", "Hassan"],
+    "revealOrder": [0, 1, 2, 3, 4, 5],
+    "difficulty": "easy",
+    "decoyBookIds": ["book-008", "book-011", "book-020"]
+  },
+  {
+    "id": "puzzle-046",
+    "bookId": "book-022",
+    "passage": "I am Melinda Sordino. I busted an end-of-summer party by calling the cops. Half the school turned against me. Nobody knew why I called. They didn't know about Andy Evans, what he did to me in the dark, what a rape does to a person's voice. I could not say that word out loud. Not yet. So I said nothing, and the silence grew into everything.",
+    "passageSource": "First Marking Period",
+    "redactedWords": ["Sordino", "busted", "cops", "rape", "Andy Evans", "Melinda"],
+    "revealOrder": [0, 1, 2, 3, 4, 5],
+    "difficulty": "medium",
+    "decoyBookIds": ["book-013", "book-020", "book-030"]
+  },
+  {
+    "id": "puzzle-047",
+    "bookId": "book-023",
+    "passage": "Lenina and Bernard flew over the Channel, and she took her soma and he refused it. Below them, the lights of London receded. She couldn't understand why he wouldn't be happy — happiness was available, soma was free, stability was guaranteed. He looked out the window and said that he wanted to feel things. She looked at him as if he were speaking another language. He was.",
+    "passageSource": "Chapter 6",
+    "redactedWords": ["Channel", "London", "stability", "soma", "Lenina", "Bernard"],
+    "revealOrder": [0, 1, 2, 3, 4, 5],
+    "difficulty": "medium",
+    "decoyBookIds": ["book-006", "book-007", "book-009"]
+  },
+  {
+    "id": "puzzle-048",
+    "bookId": "book-024",
+    "passage": "I, Holden Caulfield, kept thinking about the ducks in Central Park. Every winter the lagoon froze and nobody knew where the ducks went. You'd think somebody would know a thing like that. I was surrounded by phony people who never thought about ducks or anything real. That's what it was like — caring too much about the wrong things, which turned out to be all the right things.",
+    "passageSource": "Chapter 12",
+    "redactedWords": ["lagoon", "froze", "Caulfield", "Central Park", "phony", "Holden"],
+    "revealOrder": [0, 1, 2, 3, 4, 5],
+    "difficulty": "medium",
+    "decoyBookIds": ["book-013", "book-011", "book-015"]
+  },
+  {
+    "id": "puzzle-049",
+    "bookId": "book-026",
+    "passage": "Stamps, Arkansas was a town of certainties. The certainty that white people were white and Black people knew their place. I was eight years old when I came to live with my grandmother in Stamps, and she taught me how to carry myself inside a world that did not want me. My name was Maya and nobody there knew yet what I would become.",
+    "passageSource": "Chapter 1",
+    "redactedWords": ["certainties", "Arkansas", "grandmother", "Stamps", "Maya"],
+    "revealOrder": [0, 1, 2, 3, 4],
+    "difficulty": "medium",
+    "decoyBookIds": ["book-001", "book-012", "book-004"]
+  },
+  {
+    "id": "puzzle-050",
+    "bookId": "book-030",
+    "passage": "I, Clay Jensen, found the shoebox in the mailroom. Inside were cassette tapes — each one numbered in nail polish. Hannah Baker had left instructions: listen, then pass them on. So I listened to Hannah Baker's voice, which was just like I remembered it, explain why I was on her list. Some of what she said I understood. Some of it I will never stop trying to understand.",
+    "passageSource": "Side A, Tape 1",
+    "redactedWords": ["shoebox", "mailroom", "nail polish", "cassette tapes", "Clay Jensen", "Hannah Baker"],
+    "revealOrder": [0, 1, 2, 3, 4, 5],
+    "difficulty": "medium",
+    "decoyBookIds": ["book-013", "book-022", "book-014"]
+  },
+  {
+    "id": "puzzle-051",
+    "bookId": "book-031",
+    "passage": "Stately, plump Buck Mulligan came from the stairhead, bearing a bowl of lather on which a mirror and a razor lay crossed. A yellow dressing gown, ungirdled, was sustained gently behind him on the mild morning air. He held the bowl aloft and intoned: — Introibo ad altare Dei. Stephen Dedalus stood at the parapet, looking out over the snotgreen sea.",
+    "passageSource": "Episode 1: Telemachus",
+    "redactedWords": ["Mulligan", "dressing gown", "intoned", "parapet", "Dedalus", "snotgreen"],
+    "revealOrder": [0, 1, 2, 3, 5, 4],
+    "difficulty": "hard",
+    "decoyBookIds": ["book-033", "book-035", "book-062"]
+  },
+  {
+    "id": "puzzle-052",
+    "bookId": "book-032",
+    "passage": "She was aware of the peculiar intimacy of the wood. The keeper, Mellors, had looked at her with those cold, grey eyes, as if she were something he had found in a trap. But Connie felt alive in a way she never did at Wragby Hall, among the industrialists and the clever men. The pit village below smoked in the valley. And she felt something shift inside her she could not account for.",
+    "passageSource": "Chapter 6",
+    "redactedWords": ["intimacy", "Mellors", "Wragby", "Connie", "pit village", "industrialists"],
+    "revealOrder": [0, 2, 3, 1, 4, 5],
+    "difficulty": "medium",
+    "decoyBookIds": ["book-033", "book-056", "book-058"]
+  },
+  {
+    "id": "puzzle-053",
+    "bookId": "book-033",
+    "passage": "I am living at the Villa Borghese. There is not a crumb of dirt anywhere, nor a chair misplaced. We are all alone here and we are dead. Last night Boris discovered that he was lousy. I had to shave his armpits and even then the itching did not stop. Paris is like a whore. From a distance she seems ravishing, you can't wait to have her under your wing.",
+    "passageSource": "Part One",
+    "redactedWords": ["Villa Borghese", "lousy", "armpits", "ravishing", "whore", "Boris"],
+    "revealOrder": [0, 1, 2, 4, 3, 5],
+    "difficulty": "hard",
+    "decoyBookIds": ["book-031", "book-035", "book-059"]
+  },
+  {
+    "id": "puzzle-054",
+    "bookId": "book-034",
+    "passage": "Lolita, light of my life, fire of my loins. Lo-lee-ta. She was Lo, plain Lo, in the morning, standing four feet ten in one sock. She was Dolly at school. She was Dolores on the dotted line. But in my arms she was always Lolita. The narrator, Humbert Humbert, confesses everything and asks for nothing — not forgiveness, not understanding.",
+    "passageSource": "Part One, Chapter 1",
+    "redactedWords": ["loins", "Dolores", "Dolly", "Humbert", "Lolita", "Lo"],
+    "revealOrder": [0, 2, 3, 1, 5, 4],
+    "difficulty": "easy",
+    "decoyBookIds": ["book-033", "book-059", "book-058"]
+  },
+  {
+    "id": "puzzle-055",
+    "bookId": "book-035",
+    "passage": "The face of 'the Ugly American' is not to be seen here. Interzone is a composite of Tangier, a city without a country, a place where all addictions converge. William Lee moved through the market stalls, his junk sickness riding him like a second skeleton. The Algebra of Need, he called it — the absolute equation between the junky and the fix.",
+    "passageSource": "Interzone",
+    "redactedWords": ["Interzone", "Tangier", "junk sickness", "Algebra of Need", "junky", "William Lee"],
+    "revealOrder": [0, 1, 2, 3, 4, 5],
+    "difficulty": "hard",
+    "decoyBookIds": ["book-033", "book-031", "book-065"]
+  },
+  {
+    "id": "puzzle-056",
+    "bookId": "book-036",
+    "passage": "You don't know about me without you have read a book by the name of The Adventures of Tom Sawyer; but that ain't no matter. That book was made by Mr. Mark Twain, and he told the truth, mainly. The Widow Douglas she took me for her son, and allowed she would sivilize me; but it was rough living in the house all the time, considering how dismal regular and decent the widow was in all her ways. Me and Jim lit out for the Territory. They call me Huck.",
+    "passageSource": "Chapter 1",
+    "redactedWords": ["sivilize", "Widow Douglas", "Territory", "Tom Sawyer", "Huck", "Jim"],
+    "revealOrder": [0, 1, 2, 3, 5, 4],
+    "difficulty": "easy",
+    "decoyBookIds": ["book-037", "book-038", "book-046"]
+  },
+  {
+    "id": "puzzle-057",
+    "bookId": "book-037",
+    "passage": "The highway became their world. The Joads loaded everything they owned onto a Hudson Super-Six, and Route 66 stretched ahead of them into California. Tom had just got out of McAlester, and Pa said they'd make a new start in the peach camps and the cotton fields of the west. Ma Joad held the family together by sheer will. She said: 'We're the people — we go on.'",
+    "passageSource": "Chapter 10",
+    "redactedWords": ["McAlester", "Hudson Super-Six", "Route 66", "Joads", "Ma Joad", "California"],
+    "revealOrder": [1, 2, 0, 3, 5, 4],
+    "difficulty": "medium",
+    "decoyBookIds": ["book-038", "book-046", "book-068"]
+  },
+  {
+    "id": "puzzle-058",
+    "bookId": "book-038",
+    "passage": "Guys like us, that work on ranches, are the loneliest guys in the world. They got no family. They don't belong no place. With us it ain't like that. We got a future. We got somebody to talk to that gives a damn about us. George and Lennie had the dream of the little farm, the rabbits, the fat of the land. George said it every night, even when he stopped believing it.",
+    "passageSource": "Chapter 1",
+    "redactedWords": ["ranches", "loneliest", "rabbits", "fat of the land", "George", "Lennie"],
+    "revealOrder": [0, 1, 2, 3, 4, 5],
+    "difficulty": "easy",
+    "decoyBookIds": ["book-037", "book-036", "book-046"]
+  },
+  {
+    "id": "puzzle-059",
+    "bookId": "book-039",
+    "passage": "All animals are equal, but some animals are more equal than others. The pigs had painted over the Seven Commandments one by one until only that sentence remained on the barn wall. Napoleon walked upright now. He carried a whip. The sheep bleated their approval. Boxer had gone to the knacker's, and Squealer had explained it beautifully.",
+    "passageSource": "Chapter 10",
+    "redactedWords": ["Commandments", "knacker's", "Squealer", "Napoleon", "Boxer", "pigs"],
+    "revealOrder": [0, 1, 2, 3, 5, 4],
+    "difficulty": "easy",
+    "decoyBookIds": ["book-006", "book-009", "book-040"]
+  },
+  {
+    "id": "puzzle-060",
+    "bookId": "book-040",
+    "passage": "The boys discovered the conch on the reef and blew it and all the boys came. Ralph was elected chief, but Jack and his hunters drifted away to paint their faces and kill pigs. Piggy's glasses were the only means of making fire. When they were smashed, reason went with them. Simon had already been beaten to death on the beach, mistaken for the beast.",
+    "passageSource": "Chapter 11",
+    "redactedWords": ["conch", "reef", "Piggy", "Jack", "Ralph", "Simon"],
+    "revealOrder": [0, 1, 2, 3, 4, 5],
+    "difficulty": "easy",
+    "decoyBookIds": ["book-039", "book-029", "book-006"]
+  },
+  {
+    "id": "puzzle-061",
+    "bookId": "book-041",
+    "passage": "I want to go on living even after my death. And therefore I am grateful to God for giving me this gift, this possibility of developing myself and of writing, of expressing all that is in me. I can shake off everything if I write; my sorrows disappear, my courage is reborn. But, and that is the great question, will I ever be able to write anything great? In the annex in Amsterdam, Anne still believed: people are good at heart.",
+    "passageSource": "April 5, 1944",
+    "redactedWords": ["annex", "Amsterdam", "sorrows", "courage", "Anne", "good at heart"],
+    "revealOrder": [0, 1, 2, 3, 5, 4],
+    "difficulty": "easy",
+    "decoyBookIds": ["book-010", "book-011", "book-045"]
+  },
+  {
+    "id": "puzzle-062",
+    "bookId": "book-042",
+    "passage": "There was only one catch and that was Catch-22, which specified that a concern for one's safety in the face of dangers that were real and immediate was the process of a rational mind. Orr was crazy and could be grounded. All he had to do was ask; and as soon as he did, he would no longer be crazy. Yossarian saw it clearly: they were going to kill him no matter what he did.",
+    "passageSource": "Chapter 5",
+    "redactedWords": ["Catch-22", "grounded", "rational", "dangers", "Orr", "Yossarian"],
+    "revealOrder": [1, 2, 0, 3, 4, 5],
+    "difficulty": "easy",
+    "decoyBookIds": ["book-011", "book-039", "book-067"]
+  },
+  {
+    "id": "puzzle-063",
+    "bookId": "book-043",
+    "passage": "There was me, that is Alex, and my three droogs, that is Pete, Georgie, and Dim, and we sat in the Korova Milkbar making up our rassoodocks what to do with the evening. The Korova sold milk-plus, milk plus vellocet or synthemesc or drencrom, which is what we were drinking. This would sharpen you up and make you ready for a bit of the old ultra-violence.",
+    "passageSource": "Part One, Chapter 1",
+    "redactedWords": ["droogs", "Korova Milkbar", "rassoodocks", "ultra-violence", "drencrom", "Alex"],
+    "revealOrder": [1, 2, 0, 3, 4, 5],
+    "difficulty": "medium",
+    "decoyBookIds": ["book-035", "book-042", "book-067"]
+  },
+  {
+    "id": "puzzle-064",
+    "bookId": "book-044",
+    "passage": "I'm Patrick Bateman. I live in the American Gardens Building on West 81st Street, on the eleventh floor. My business card is bone, with Silian Rail lettering. I work on Wall Street. I believe in taking care of myself and a balanced diet and rigorous exercise routine. In the morning, if my face is a little puffy, I'll put on an ice pack. I'm twenty-six years old.",
+    "passageSource": "Chapter 1: Morning",
+    "redactedWords": ["Bateman", "American Gardens", "Silian Rail", "Wall Street", "Patrick", "ice pack"],
+    "revealOrder": [1, 2, 0, 3, 5, 4],
+    "difficulty": "medium",
+    "decoyBookIds": ["book-043", "book-059", "book-033"]
+  },
+  {
+    "id": "puzzle-065",
+    "bookId": "book-045",
+    "passage": "I wasn't born Malcolm X. The slave master who owned my family gave us his name, Little. We dropped it. In Boston and then in Harlem I learned the hustler's trade — numbers, women, narcotics. They called me Detroit Red. Then the Nation of Islam found me in Norfolk Prison Colony and I began to read, and reading remade me. Brother Malcolm became Minister Malcolm.",
+    "passageSource": "Chapter 1",
+    "redactedWords": ["Norfolk Prison Colony", "Detroit Red", "Harlem", "Nation of Islam", "Malcolm", "hustler"],
+    "revealOrder": [0, 1, 2, 3, 5, 4],
+    "difficulty": "medium",
+    "decoyBookIds": ["book-046", "book-047", "book-061"]
+  },
+  {
+    "id": "puzzle-066",
+    "bookId": "book-046",
+    "passage": "I am an invisible man. No, I am not a spook like those who haunted Edgar Allan Poe; nor am I one of your Hollywood-movie ectoplasms. I am a man of substance, of flesh and bone, fiber and liquids — and I might even be said to possess a mind. I am invisible, understand, simply because people refuse to see me. They see only my surroundings, themselves, or figments of their imagination — indeed, everything and anything except me.",
+    "passageSource": "Prologue",
+    "redactedWords": ["spook", "ectoplasms", "invisible", "substance", "Poe", "figments"],
+    "revealOrder": [0, 1, 2, 3, 4, 5],
+    "difficulty": "medium",
+    "decoyBookIds": ["book-047", "book-050", "book-061"]
+  },
+  {
+    "id": "puzzle-067",
+    "bookId": "book-047",
+    "passage": "Bigger Thomas stood at the window of the one-room kitchenette flat on the South Side of Chicago, looking out at the snow. He was twenty years old. He had been hired as a chauffeur by the Dalton family, and in one night everything had changed. Mary Dalton was dead and he had burned her body in the furnace. Fear and shame drove him on, not hate — though hate was in it too.",
+    "passageSource": "Book One: Fear",
+    "redactedWords": ["kitchenette", "chauffeur", "furnace", "Dalton", "Bigger Thomas", "Chicago"],
+    "revealOrder": [0, 1, 2, 3, 5, 4],
+    "difficulty": "medium",
+    "decoyBookIds": ["book-046", "book-050", "book-061"]
+  },
+  {
+    "id": "puzzle-068",
+    "bookId": "book-048",
+    "passage": "I had come to Paris to write a novel and had almost immediately fallen into keeping company with Guillaume, who knew everyone. He took me to a bar on the Rue de Vaugirard where the men sat close together and nobody pretended. I met David there. His name was David and he was from Ohio and he had the face of a shepherd. I was not prepared for what happened to me in Giovanni's room.",
+    "passageSource": "Part One",
+    "redactedWords": ["Rue de Vaugirard", "Guillaume", "shepherd", "Giovanni's room", "David", "Paris"],
+    "revealOrder": [0, 1, 2, 3, 5, 4],
+    "difficulty": "hard",
+    "decoyBookIds": ["book-033", "book-049", "book-054"]
+  },
+  {
+    "id": "puzzle-069",
+    "bookId": "book-049",
+    "passage": "Stephen Gordon was born on a fine December morning, and her parents had hoped for a son. Her childhood at Morton Hall was solitary. She read everything in her father's library — Krafft-Ebing was among them — and slowly she came to understand the name for what she was. The word invert was the clinical word. She would love Mary Llewellyn, and the world would punish her for it.",
+    "passageSource": "Book One",
+    "redactedWords": ["Morton Hall", "Krafft-Ebing", "invert", "Mary Llewellyn", "Stephen Gordon", "December"],
+    "revealOrder": [0, 1, 2, 3, 5, 4],
+    "difficulty": "hard",
+    "decoyBookIds": ["book-048", "book-025", "book-032"]
+  },
+  {
+    "id": "puzzle-070",
+    "bookId": "book-050",
+    "passage": "Ships at a distance have every man's wish on board. For some they come in with the tide. For others they sail forever on the horizon, never out of sight, never landing until the Watcher turns his eyes away in resignation, his dreams mocked to death by Time. That is the life of men. Women forget what they don't want to remember and remember everything they don't want to forget. The horizon called Janie Crawford from the moment she was old enough to hear it.",
+    "passageSource": "Chapter 1",
+    "redactedWords": ["horizon", "resignation", "Watcher", "Ships", "Janie Crawford", "tide"],
+    "revealOrder": [0, 1, 2, 3, 5, 4],
+    "difficulty": "medium",
+    "decoyBookIds": ["book-046", "book-047", "book-061"]
+  },
+  {
+    "id": "puzzle-071",
+    "bookId": "book-051",
+    "passage": "On a grey morning in Boston, a woman emerged from the prison door with an infant in her arms and a rag of scarlet cloth on her breast. The crowd of women stared. Some called for a harsher brand. The embroidered letter on her bosom — an A worked in fine red cloth with elaborate embroidery — was meant as punishment. Hester Prynne wore it as if it were an ornament. Pearl clung to her side.",
+    "passageSource": "Chapter 2: The Market-Place",
+    "redactedWords": ["scarlet", "embroidered", "Boston", "Hester Prynne", "Pearl", "punishment"],
+    "revealOrder": [0, 1, 2, 3, 5, 4],
+    "difficulty": "easy",
+    "decoyBookIds": ["book-056", "book-058", "book-064"]
+  },
+  {
+    "id": "puzzle-072",
+    "bookId": "book-052",
+    "passage": "Whan that Aprill with his shoures soote the droghte of March hath perced to the roote, thanne longen folk to goon on pilgrimages. And so to Canterbury they rode, knight and miller and wife of Bath alike — each one carrying a tale full of ribaldry, desire, and occasionally wisdom. The Wife of Bath held her own against every man on that road to Canterbury.",
+    "passageSource": "General Prologue",
+    "redactedWords": ["Aprill", "pilgrimages", "ribaldry", "Canterbury", "Wife of Bath", "miller"],
+    "revealOrder": [0, 1, 2, 3, 5, 4],
+    "difficulty": "medium",
+    "decoyBookIds": ["book-051", "book-066", "book-031"]
+  },
+  {
+    "id": "puzzle-073",
+    "bookId": "book-053",
+    "passage": "Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do: once or twice she had peeped into the book her sister was reading, but it had no pictures or conversations in it. Down the rabbit-hole she fell, tumbling past shelves of marmalade and into Wonderland. The Cheshire Cat grinned from ear to ear. The Queen of Hearts called for her head.",
+    "passageSource": "Chapter 1",
+    "redactedWords": ["rabbit-hole", "marmalade", "Wonderland", "Cheshire Cat", "Queen of Hearts", "Alice"],
+    "revealOrder": [0, 1, 2, 3, 4, 5],
+    "difficulty": "easy",
+    "decoyBookIds": ["book-029", "book-028", "book-052"]
+  },
+  {
+    "id": "puzzle-074",
+    "bookId": "book-054",
+    "passage": "Robert Cohn was once middleweight boxing champion of Princeton. Do not think that I am very much impressed by that as a boxing title, but it meant a lot to Cohn. He had a hard, stubborn quality about his jaw. Jake Barnes and his friends moved through the cafes of Paris and then down to Pamplona for the fiesta and the bullfights. Brett Ashley was the sun they all circled.",
+    "passageSource": "Book One, Chapter 1",
+    "redactedWords": ["Princeton", "Pamplona", "bullfights", "Jake Barnes", "Brett Ashley", "Robert Cohn"],
+    "revealOrder": [0, 1, 2, 3, 4, 5],
+    "difficulty": "medium",
+    "decoyBookIds": ["book-055", "book-033", "book-060"]
+  },
+  {
+    "id": "puzzle-075",
+    "bookId": "book-055",
+    "passage": "In the late summer of that year we lived in a house in a village that looked across the river and the plain to the mountains. In the bed of the river there were pebbles and boulders, dry and white in the sun. Lieutenant Henry drove ambulances on the Italian front and met Catherine Barkley at the British hospital near the front. The retreat from Caporetto would change everything that followed.",
+    "passageSource": "Book One, Chapter 1",
+    "redactedWords": ["pebbles", "ambulances", "Italian front", "Lieutenant Henry", "Catherine Barkley", "Caporetto"],
+    "revealOrder": [0, 1, 2, 3, 4, 5],
+    "difficulty": "medium",
+    "decoyBookIds": ["book-054", "book-042", "book-033"]
+  },
+  {
+    "id": "puzzle-076",
+    "bookId": "book-056",
+    "passage": "Emma Bovary had read too many novels. She believed that love was supposed to arrive like a storm and leave you changed. Charles was a dull country doctor and she had married him in desperation. Rodolphe courted her in the agricultural fairground while the speeches droned on about manure and livestock. She believed every word he said. Yonville was too small for her imagination.",
+    "passageSource": "Part Two, Chapter 8",
+    "redactedWords": ["Yonville", "Rodolphe", "manure", "Charles", "Emma Bovary", "agricultural"],
+    "revealOrder": [0, 1, 2, 3, 5, 4],
+    "difficulty": "medium",
+    "decoyBookIds": ["book-058", "book-064", "book-032"]
+  },
+  {
+    "id": "puzzle-077",
+    "bookId": "book-057",
+    "passage": "Jurgis Rudkus had come from Lithuania with a young wife and a dream of America. He found work in the packinghouses of Chicago's Packingtown — the stockyards where hogs were killed on the killing floor and the sausage was made from everything the company could not otherwise sell, including the men who fell into the vats and were rendered into Durham's Pure Leaf Lard.",
+    "passageSource": "Chapter 3",
+    "redactedWords": ["Lithuania", "Packingtown", "vats", "stockyards", "Jurgis Rudkus", "sausage"],
+    "revealOrder": [0, 1, 2, 3, 5, 4],
+    "difficulty": "medium",
+    "decoyBookIds": ["book-037", "book-058", "book-064"]
+  },
+  {
+    "id": "puzzle-078",
+    "bookId": "book-058",
+    "passage": "Clyde Griffiths grew up in a mission house, singing hymns in the street with his evangelistic parents. He dreamed of wealth and beautiful women. In Kansas City he found work as a bellboy at the Green-Davidson Hotel. Sondra Finchley was everything he wanted and Roberta Alden was everything he could not escape. The rowboat on Grass Lake capsized at a moment that would never be explained.",
+    "passageSource": "Book Two, Chapter 45",
+    "redactedWords": ["Green-Davidson", "Roberta Alden", "Grass Lake", "Sondra Finchley", "Clyde Griffiths", "bellboy"],
+    "revealOrder": [0, 1, 2, 3, 5, 4],
+    "difficulty": "hard",
+    "decoyBookIds": ["book-057", "book-064", "book-056"]
+  },
+  {
+    "id": "puzzle-079",
+    "bookId": "book-059",
+    "passage": "She asked me to keep it clean and I said I would and then I didn't. I am Alexander Portnoy and I have a complaint, or rather a compulsion, which is to say a passion — which is to say that I am thirty-three years old and still in the grip of a Jewish guilt so vast it has its own weather system. My mother Sophie hovered over every meal. Doctor Spielvogel listened and took notes.",
+    "passageSource": "Whacking Off",
+    "redactedWords": ["compulsion", "Spielvogel", "Sophie", "Portnoy", "Jewish guilt", "Alexander"],
+    "revealOrder": [0, 1, 2, 3, 5, 4],
+    "difficulty": "medium",
+    "decoyBookIds": ["book-033", "book-044", "book-058"]
+  },
+  {
+    "id": "puzzle-080",
+    "bookId": "book-060",
+    "passage": "In my younger and more vulnerable years my father gave me some advice that I've been turning over in my mind ever since. Across the bay, the green light at the end of Daisy's dock blinked in the dark. Jay Gatsby had invented himself entirely — the parties, the pink suit, the Oxford manner. Nick Carraway watched it all from West Egg and couldn't look away. The Valley of Ashes lay between them and the city.",
+    "passageSource": "Chapter 1",
+    "redactedWords": ["Valley of Ashes", "West Egg", "Daisy", "Jay Gatsby", "Nick Carraway", "Oxford"],
+    "revealOrder": [0, 1, 2, 3, 4, 5],
+    "difficulty": "easy",
+    "decoyBookIds": ["book-054", "book-055", "book-058"]
+  },
+  {
+    "id": "puzzle-081",
+    "bookId": "book-061",
+    "passage": "John Grimes was fourteen years old and the son of a holy man in Harlem. His stepfather Gabriel had been saved, and Gabriel was hard in his holiness. On John's birthday, lying on the threshing floor of the Temple of the Fire Baptized, John wrestled with his soul and with everything Gabriel had told him about sin and damnation. The saints sang. The Spirit moved.",
+    "passageSource": "Part Two: The Prayers of the Saints",
+    "redactedWords": ["threshing floor", "Temple of the Fire Baptized", "Gabriel", "Harlem", "John Grimes", "damnation"],
+    "revealOrder": [0, 1, 2, 3, 5, 4],
+    "difficulty": "hard",
+    "decoyBookIds": ["book-046", "book-047", "book-048"]
+  },
+  {
+    "id": "puzzle-082",
+    "bookId": "book-062",
+    "passage": "My mother is a fish. Vardaman said that, and it meant something different every time. We were carrying Addie Bundren in her coffin from the hollow to Jefferson, forty miles across the Mississippi summer. Cash built the coffin outside her bedroom window while she was still dying so she could hear the adze. The buzzards circled before we had gone five miles.",
+    "passageSource": "Vardaman",
+    "redactedWords": ["adze", "Jefferson", "buzzards", "Addie Bundren", "Vardaman", "coffin"],
+    "revealOrder": [0, 1, 2, 3, 4, 5],
+    "difficulty": "hard",
+    "decoyBookIds": ["book-063", "book-050", "book-047"]
+  },
+  {
+    "id": "puzzle-083",
+    "bookId": "book-063",
+    "passage": "Through the fence, between the curling flower spaces, I could see them hitting. They were hitting the ball and then going to where they hit it. Benjy watched through the fence at the golf course, unable to speak, holding the jimson weed. He remembered Caddy, who smelled like trees. The name on the marker said Compson. The branch was cold and Quentin had once crossed it on the way to his ending.",
+    "passageSource": "April Seventh, 1928",
+    "redactedWords": ["jimson weed", "Compson", "Caddy", "Benjy", "Quentin", "fence"],
+    "revealOrder": [0, 1, 2, 3, 4, 5],
+    "difficulty": "hard",
+    "decoyBookIds": ["book-062", "book-047", "book-046"]
+  },
+  {
+    "id": "puzzle-084",
+    "bookId": "book-064",
+    "passage": "Carrie Meeber stepped off the train in Chicago with four dollars and her sister's address on a slip of paper. She had left the small town of Columbia City for something she could not yet name. Drouet noticed her on the train and said she had the look of a girl who would go far. Hurstwood, the manager of Fitzgerald and Moy's saloon, would eventually give up everything for her.",
+    "passageSource": "Chapter 1",
+    "redactedWords": ["Columbia City", "Drouet", "Hurstwood", "Fitzgerald and Moy's", "Carrie Meeber", "Chicago"],
+    "revealOrder": [0, 1, 2, 3, 5, 4],
+    "difficulty": "hard",
+    "decoyBookIds": ["book-056", "book-058", "book-060"]
+  },
+  {
+    "id": "puzzle-085",
+    "bookId": "book-065",
+    "passage": "I saw the best minds of my generation destroyed by madness, starving hysterical naked, dragging themselves through the negro streets at dawn looking for an angry fix, angelheaded hipsters burning for the ancient heavenly connection to the starry dynamo in the machinery of night. Carl Solomon, I'm with you in Rockland where you're madder than I am.",
+    "passageSource": "Howl, Part I",
+    "redactedWords": ["angelheaded", "starry dynamo", "Rockland", "Carl Solomon", "madness", "hipsters"],
+    "revealOrder": [0, 1, 2, 3, 5, 4],
+    "difficulty": "medium",
+    "decoyBookIds": ["book-035", "book-033", "book-043"]
+  },
+  {
+    "id": "puzzle-086",
+    "bookId": "book-066",
+    "passage": "The wise man knows that union between a man and a woman requires understanding of what is pleasing and what is not pleasing to each. Vatsyayana, having examined the sixty-four arts of love, says: the union should be like two lutes played together, the one completing the frequencies the other cannot reach alone. A man who knows the Kama Sutra knows that desire is a form of attention, not merely appetite.",
+    "passageSource": "Part II: On Sexual Union",
+    "redactedWords": ["Vatsyayana", "sixty-four", "lutes", "Kama Sutra", "desire", "frequencies"],
+    "revealOrder": [0, 1, 2, 3, 5, 4],
+    "difficulty": "medium",
+    "decoyBookIds": ["book-032", "book-052", "book-059"]
+  },
+  {
+    "id": "puzzle-087",
+    "bookId": "book-067",
+    "passage": "They're out there. Black boys in white suits up before me to commit sex acts in the hall and get it mopped up before I can catch them. I am Chief Bromden and I been watching long enough to pin down the truth. The Combine — that's what Randle Patrick McMurphy called the whole system — has been working on all of us for too long. The Big Nurse, Miss Ratched, ran the ward. She was not cruel by accident.",
+    "passageSource": "Part One",
+    "redactedWords": ["Combine", "Ratched", "ward", "McMurphy", "Big Nurse", "Chief Bromden"],
+    "revealOrder": [0, 1, 2, 3, 4, 5],
+    "difficulty": "easy",
+    "decoyBookIds": ["book-042", "book-043", "book-023"]
+  },
+  {
+    "id": "puzzle-088",
+    "bookId": "book-068",
+    "passage": "This is the story of Carol Kennicott, who came from the East with education and ideas and married a doctor in Gopher Prairie, Minnesota. She wanted a village beautiful and vital. What she found was the village smug, satisfied, and suspicious of the arts. The Thanatopsis Club met once a month to improve itself. Nothing much improved. Carol Kennicott was considered a problem.",
+    "passageSource": "Chapter 4",
+    "redactedWords": ["Thanatopsis", "Gopher Prairie", "Minnesota", "Carol Kennicott", "smug", "arts"],
+    "revealOrder": [0, 1, 2, 3, 4, 5],
+    "difficulty": "hard",
+    "decoyBookIds": ["book-057", "book-064", "book-058"]
+  },
+  {
+    "id": "puzzle-089",
+    "bookId": "book-069",
+    "passage": "Katerina Lvovna was bored. Her merchant husband Zinovy was away and the young clerk Sergei came into the house with a bold look and an easy manner. In the Mtsensk district, gossip traveled faster than the Oka River in spring flood. She poisoned her father-in-law Boris with mushrooms and then there was Zinovy in the cellar. The nightingale sang on regardless outside the window.",
+    "passageSource": "Chapter 3",
+    "redactedWords": ["Mtsensk", "Zinovy", "Sergei", "Katerina Lvovna", "nightingale", "mushrooms"],
+    "revealOrder": [0, 1, 2, 3, 5, 4],
+    "difficulty": "hard",
+    "decoyBookIds": ["book-056", "book-032", "book-076"]
+  },
+  {
+    "id": "puzzle-090",
+    "bookId": "book-070",
+    "passage": "Someone must have slandered Josef K., for one morning, without having done anything wrong, he was arrested. His landlady's cook, Frau Grubach, looked on. Two warders had come to his room. He was told he was under arrest but could continue his usual life. He never discovered the charge against him. The courts were in the attics of tenement buildings and justice was conducted in rooms full of sawdust.",
+    "passageSource": "Chapter 1: Arrest",
+    "redactedWords": ["slandered", "Frau Grubach", "sawdust", "warders", "Josef K.", "attics"],
+    "revealOrder": [0, 1, 2, 3, 5, 4],
+    "difficulty": "medium",
+    "decoyBookIds": ["book-039", "book-009", "book-006"]
+  }
+]
