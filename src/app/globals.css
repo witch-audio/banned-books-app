@@ -124,6 +124,17 @@
   .animate-shake {
     animation: shake 0.4s cubic-bezier(0.36, 0.07, 0.19, 0.97) both;
   }
+
+  /* Phone float */
+  .animate-phone-float {
+    animation: phone-float 4s ease-in-out infinite;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .animate-phone-float {
+      animation: none;
+    }
+  }
 }
 
 @keyframes redact-pulse {
@@ -142,4 +153,9 @@
   30%, 50%, 70% { transform: translateX(-6px); }
   40%, 60% { transform: translateX(6px); }
   100% { transform: translateX(0); }
+}
+
+@keyframes phone-float {
+  0%, 100% { transform: translateY(0px); }
+  50% { transform: translateY(-10px); }
 }
